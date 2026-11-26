@@ -1,0 +1,6 @@
+calibration: routine gains added 1.1% of ROE while ship prices drifted +3.7% a year -> 0.31 points of ROE per point of yearly drift
+prices keep rising as 2016-23            drift +3.7%/yr -> normal-year return 7.9% -> expected 12-month total return +9.4% (SELL line 3.2%)
+newbuild cost inflation +2%              drift +2.0%/yr -> normal-year return 7.4% -> expected 12-month total return +6.9% (SELL line 3.2%)
+flat from end-2028                       drift +0.0%/yr -> normal-year return 6.8% -> expected 12-month total return +4.0% (SELL line 3.2%)
+drift down -2% a year                    drift -2.0%/yr -> normal-year return 6.1% -> expected 12-month total return +1.0% (SELL line 3.2%)
+back to Feb 2023 levels over ten years   drift -7.6%/yr -> normal-year return 4.4% -> expected 12-month total return -7.3% (SELL line 3.2%)

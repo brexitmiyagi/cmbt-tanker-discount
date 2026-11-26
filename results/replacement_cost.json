@@ -1,0 +1,20 @@
+{
+ "VLCC": {
+  "newbuild": 132.0,
+  "rate_newbuild_needs": 42033.42321334543,
+  "rate_5yr_needs": 40786.863470043434,
+  "through_cycle": 37786.27272727273
+ },
+ "Suezmax": {
+  "newbuild": 90.0,
+  "rate_newbuild_needs": 31968.79336140988,
+  "rate_5yr_needs": 33024.39120187884,
+  "through_cycle": 32776.90909090909
+ },
+ "Capesize": {
+  "newbuild": 75.2,
+  "rate_newbuild_needs": 25798.63100502045,
+  "rate_5yr_needs": 27272.713092490507,
+  "through_cycle": 15212.142857142859
+ }
+}

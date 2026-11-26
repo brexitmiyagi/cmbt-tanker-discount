@@ -1,0 +1,8 @@
+load 60%: VLSFO 31 t/day = $24,697/day; ammonia (grey, NW Europe Sep 2026 $700/t) 62 t/day + pilot = $45,473/day, $+20,776/day more
+load 60%: VLSFO 31 t/day = $24,697/day; ammonia (green, delivered, late 2025 low $820/t) 62 t/day + pilot = $52,929/day, $+28,233/day more
+load 60%: VLSFO 31 t/day = $24,697/day; ammonia (green, high $930/t) 62 t/day + pilot = $59,764/day, $+35,068/day more
+load 85%: VLSFO 43 t/day = $34,987/day; ammonia (grey, NW Europe Sep 2026 $700/t) 88 t/day + pilot = $64,420/day, $+29,433/day more
+load 85%: VLSFO 43 t/day = $34,987/day; ammonia (green, delivered, late 2025 low $820/t) 88 t/day + pilot = $74,983/day, $+39,996/day more
+load 85%: VLSFO 43 t/day = $34,987/day; ammonia (green, high $930/t) 88 t/day + pilot = $84,666/day, $+49,680/day more
+a dual-fuel ship can burn VLSFO instead, so the extra cost applies to the days it burns ammonia. at a 2027 forward Newcastlemax rate of
+$40,608 a day (structure_and_green.py), a day on grey ammonia costs roughly half to three-quarters of that day's hire in extra fuel at sea.

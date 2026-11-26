@@ -1,0 +1,4 @@
+2025-12-31: route 1 $15.78, route 2 $24.07, gap $8.29 a share ($2,405m); price/NAV route 1 0.61x, route 2 0.40x; newbuilds at book $2.55 a share
+2026-06-30: route 1 $20.88, route 2 $25.61, gap $4.72 a share ($1,371m); price/NAV route 1 0.67x, route 2 0.55x; newbuilds at book $1.84 a share
+2026-09-30: route 1 $25.02, route 2 $30.67, gap $5.66 a share ($1,642m); price/NAV route 1 0.76x, route 2 0.62x; newbuilds at book $1.97 a share
+candidate explanations at 30 Sep: charter marks $458m-$600m ($1.58-$2.07 a share, fleet_valuation.py); newbuilds counted at value in the fleet figure but at cost on the balance sheet would be at most $1.97 a share. together up to ~$4.04 of the $5.65 gap, and neither explains a $8.29 gap at the end of 2025.

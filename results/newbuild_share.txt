@@ -1,0 +1,6 @@
+dry bulk: 38 of 112 ships built 2023-2026
+VLCCs still owned: Atrebates (2025), Eburones (2026), Menapii (2026), TK300K-4 / TK300K-5 (2026-2027) -- every one a 2025-27 delivery
+Suezmaxes still owned: 14, of which built 2022 or later: 6
+assets under construction at 30 Sep 2026 $572m, plus $843m of capex scheduled Q4 2026 to Q2 2029
+a VLCC newbuild costs $132m today (CMB.TECH Q3 2026 release); the VLCCs sold in 2023-24 had implied costs of
+about $77m to $100m (gain_decomposition.py). sale gains on the new ships need resale prices to stay above what they cost.

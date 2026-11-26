@@ -1,0 +1,16 @@
+2015-2025 averages: VLCC spot $37,786 (2025: $46,353), Suezmax spot $32,777 (2025: $48,576); Capesize 10-year about $15,212 (2025: $21,297)
+so 2025 was an above-average year for all three. Clarksons: VLCC earnings in 2025 were "the highest level in 10 years"
+charter book, full cycle (time charter minus spot, $/day):
+  2015: VLCC  -13,074   Suezmax   -5,896
+  2016: VLCC     +755   Suezmax   -1,229
+  2017: VLCC  +11,856   Suezmax   +4,129
+  2018: VLCC  +10,333   Suezmax  +14,697
+  2019: VLCC   -3,500   Suezmax   +3,400
+  2020: VLCC  -12,400   Suezmax   -9,800
+  2021: VLCC  +35,200   Suezmax  +18,700
+  2022: VLCC  +15,300   Suezmax     -800
+  2023: VLCC     +900   Suezmax  -25,200
+  2024: VLCC   +2,000   Suezmax  -14,600
+  2025: VLCC     -238   Suezmax  -15,974
+  average 2015-2025: VLCC charters +4,285/day against spot (above spot in 7 of 11 years); Suezmax charters -2,961/day (above spot in 4 of 11 years)
+returns on equity by window are in roe_windows.py

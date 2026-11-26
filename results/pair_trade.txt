@@ -1,0 +1,6 @@
+CMBT/DHT price ratio: 1.087 (3 Jan 2025), 0.760 (27 Feb 2026, war starts), 0.823 (24 Nov 2026); since the war +8%, since Jan 2025 -24%
+weekly ratio range since Jan 2025: 0.691 to 1.087
+hedge ratio 0.64 (daily, 1 year); correlation 0.65; pair volatility 31% vs 41% for CMBT alone
+carry per $1 short CMBT, before the 9 Dec ex-date: pay 13.4%, receive 0.64 x DHT trailing yield 17.4% = -2.2% a year before borrow cost
+carry per $1 short CMBT, after it: pay 9.7%, receive 0.64 x DHT trailing yield 17.4% = +1.5% a year before borrow cost
+DHT trailing four dividends $3.72; DHT pays out most of its profit, so this falls if VLCC rates do

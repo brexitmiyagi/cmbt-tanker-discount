@@ -1,0 +1,17 @@
+free cash flow a share: 2027 $2.74 (15.6%), 2028 $1.73 (9.9%), average 12.7%
+EPS: 2027 $2.50 (P/E 7.0x, earnings yield 14.2%), 2028 $1.04 (P/E 17x); average earnings yield 10.1%
+cost of equity 8.2% (10-year Treasury 4.91% + beta 0.65 x 5% equity risk premium, the premium is my assumption)
+book equity at the start of the normal year (end-2028, model): $4,167m
+cost of equity 7.0%: price needs normal EPS $0.87 = 6.0% on end-2028 book; 41% of the 17 adjusted 8-year windows beat that; SELL line 2.0%; value at median window 5.0% $15.64, 2015-2024 adjusted range low 6.7% $18.77, high 9.7% $24.28
+cost of equity 8.2%: price needs normal EPS $1.03 = 7.2% on end-2028 book; 35% of the 17 adjusted 8-year windows beat that; SELL line 3.2%; value at median window 5.0% $14.15, 2015-2024 adjusted range low 6.7% $16.79, high 9.7% $21.43
+cost of equity 10.0%: price needs normal EPS $1.31 = 9.1% on end-2028 book; 29% of the 17 adjusted 8-year windows beat that; SELL line 5.0%; value at median window 5.0% $12.48, 2015-2024 adjusted range low 6.7% $14.57, high 9.7% $18.26
+central DCF: common-window adjusted average 7.7% on end-2028 book -> $18.39 a share
+asset view $17.21 (12-month value), central DCF $18.39 (value today, implied 12-month return +13.4%)
+predecessors (Euronav tankers, Golden Ocean dry bulk), fleet-weighted: 6.8% -> DCF $16.89; implied 12-month return +4.2%
+asset view expected return (25/50/25) +3.7%; 50/50 expected return +4.0% against a SELL line of 3.2% and a BUY line of 13.2%
+target: 50/50 of asset $17.21 and predecessor DCF $16.89 = $17.05
+on Star Bulk's 9.7% instead: DCF $21.43, implied return +32.2%
+cost of equity 7.0%: DCF at the predecessors' 6.8% = $18.90, implied 12-month return +15.3%
+cost of equity 8.2%: DCF at the predecessors' 6.8% = $16.89, implied 12-month return +4.2%
+cost of equity 10.0%: DCF at the predecessors' 6.8% = $14.66, implied 12-month return -8.1%
+BUY line reached when the normal-year return is about 8.7% on end-2028 book

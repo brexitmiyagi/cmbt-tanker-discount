@@ -1,0 +1,22 @@
+peer EV / fleet value (mid, band):
+  2025-12-31 dry bulk 0.80 (0.76-0.83)  [GNK 0.80]
+  2025-12-31 tanker   1.02 (1.01-1.05)  [DHT 1.16, INSW 0.88]
+  2026-03-31 dry bulk 0.93 (0.90-0.95)  [GNK 0.93]
+  2026-03-31 tanker   1.47 (1.47-1.48)  [DHT 1.47]
+  2026-06-30 dry bulk 0.96 (0.93-0.98)  [GNK 0.96]
+  2026-09-30 dry bulk 0.88 (0.86-0.90)  [GNK 0.92, SBLK 0.84]
+  2026-09-30 tanker   1.19 (1.18-1.24)  [DHT 1.22, INSW 1.17]
+2025-12-31 route 1: CMB.TECH extra discount 1% (band -11% to 20%)
+2025-12-31 route 2: CMB.TECH extra discount 46% (band 43% to 53%)
+2026-06-30 route 1: CMB.TECH extra discount 28% (band 22% to 34%)
+2026-06-30 route 2: CMB.TECH extra discount 42% (band 38% to 46%)
+2026-09-30 route 1: CMB.TECH extra discount 15% (band 12% to 21%)
+2026-09-30 route 2: CMB.TECH extra discount 32% (band 30% to 36%)
+route 1, 30 Sep: holding the Dec discount, tankers implied at 0.89x (band 0.67-1.35) vs tanker peers 1.19x (-26%; band -44% to +13%)
+route 2, 30 Sep: holding the Dec discount, tankers implied at 1.98x (band 1.76-2.44) vs tanker peers 1.19x (+66%; band +48% to +105%)
+anchor route 1: peer-implied equity $22.26 a share at 30 Sep, less the 15% average discount = $19.03 (price then $18.93)
+anchor route 2: peer-implied equity $27.91 a share at 30 Sep, less the 40% average discount = $16.69 (price then $18.93)
+route 1 at its pre-war discount (1%): $22.10 at 30 Sep = 1.167x the price then; on $17.54 today that is $20.48
+route 1 at its average discount (15%): $19.03 at 30 Sep = 1.005x the price then; on $17.54 today that is $17.63
+route 2 at its pre-war discount (46%): $14.95 at 30 Sep = 0.790x the price then; on $17.54 today that is $13.86
+route 2 at its average discount (40%): $16.69 at 30 Sep = 0.882x the price then; on $17.54 today that is $15.46

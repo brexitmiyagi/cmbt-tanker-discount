@@ -1,0 +1,11 @@
+old CMB.TECH figure: $88.8m (Suezmax $82.9m + VLCC $5.9m)
+peer Suezmax spot, Q3 2026: 102,501, 106,437, 102,500; average $103,813; CMB.TECH reported $148,540 including profit share
+spot days 650, profit-split ship-days 82: A (peer benchmark) profit share $29.1m, CMB.TECH total $27.6m; B (50/50 split) profit share $4.5m, own pure spot $141,684, total $79.4m
+spot days 650, profit-split ship-days 399: A (peer benchmark) profit share $29.1m, CMB.TECH total $27.6m; B (50/50 split) profit share $17.6m, own pure spot $121,403, total $51.7m
+spot days 780, profit-split ship-days 82: A (peer benchmark) profit share $34.9m, CMB.TECH total $21.8m; B (50/50 split) profit share $4.5m, own pure spot $142,769, total $80.1m
+spot days 780, profit-split ship-days 399: A (peer benchmark) profit share $34.9m, CMB.TECH total $21.8m; B (50/50 split) profit share $18.4m, own pure spot $125,004, total $53.5m
+spot days 900, profit-split ship-days 82: A (peer benchmark) profit share $40.3m, CMB.TECH total $16.4m; B (50/50 split) profit share $4.5m, own pure spot $143,505, total $80.6m
+spot days 900, profit-split ship-days 399: A (peer benchmark) profit share $40.3m, CMB.TECH total $16.4m; B (50/50 split) profit share $18.9m, own pure spot $127,573, total $54.9m
+range across methods and day counts: $16m to $81m, against $88.8m before
+82 profit-split ship-days counts only the two charters the Q1 2026 release says carry a split (Cap Grace from 19 Jul, Cap Joseph from 23 Sep); 399 adds four more that investor relations described to me (cited with their consent, 26 Nov 2026)
+ranking with the corrected CMB.TECH figure: Frontline $78m, DHT Holdings $54m, Hafnia $52m, Scorpio Tankers $41m, CMB.TECH (peer-benchmark, 780 days) $22m, Teekay Tankers $21m

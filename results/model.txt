@@ -1,0 +1,19 @@
+calibration: Q3 2026 tankers + dry bulk modelled $261.0m; everything else $12.7m a quarter
+qtr    profit ex gains   profit    EPS     FCF dist paid  net debt book equity
+Q4 26            428.4    619.2   2.13   666.2     188.6    4392.7      3925.6
+Q1 27            184.9    184.9   0.64    76.7     309.6    4625.6      3800.9
+Q2 27            181.4    181.4   0.63   210.5      92.5    4507.6      3889.9
+Q3 27            178.3    178.3   0.61   239.2      90.7    4359.1      3977.5
+Q4 27            180.6    180.6   0.62   269.0      89.2    4179.2      4068.9
+Q1 28             73.8     73.8   0.25   123.1      90.3    4146.4      4052.4
+Q2 28             74.3     74.3   0.26   124.2      36.9    4059.1      4089.7
+Q3 28             75.6     75.6   0.26   126.2      37.1    3970.0      4128.2
+Q4 28             76.9     76.9   0.27   128.3      37.8    3879.5      4167.3
+FY2026 EPS $5.95 reported (incl. $2.36 of sale gains), $3.59 ex gains; consensus $4.38
+FY2027 EPS $2.50; consensus $2.16 (+16%)
+FY2028 EPS $1.04; consensus $1.91 (-46%)
+net debt end-2026 $4,393m (CFO guide: gross debt ~$4.4bn), end-2027 $4,179m, end-2028 $3,879m
+distributions paid in the next 12 months (Dec 2026 to Sep 2027): $681.4m = $2.35 a share; Q4 2026 distribution about $1.07
+book equity a share end-2027 $14.02, end-2028 $14.36
+interest: Q3 2026 net finance cost $74.0m = 6.0% of gross debt annualised; +1% SOFR = $44.6m a year = $0.15 a share before tax
+debt service at end-2025 (principal + interest): <1y $1,154m, 1-5y $3,795m, >5y $2,561m

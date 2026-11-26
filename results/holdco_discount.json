@@ -1,0 +1,46 @@
+{
+ "pre-war, 31 Dec 2025": {
+  "m_dry": 0.7831925887190564,
+  "m_tank": 1.0212508014304855,
+  "marks": 115.41577775609721,
+  "nav1 other at dry bulk multiple": {
+   "peer_equity": 2713.9519010070744,
+   "discount": -0.03175677867059634
+  },
+  "nav1 other at 1.0x": {
+   "peer_equity": 3141.9297308756572,
+   "discount": 0.10878392876418652
+  },
+  "nav2 other at dry bulk multiple": {
+   "peer_equity": 5119.459286017074,
+   "discount": 0.4530402305379988
+  },
+  "nav2 other at 1.0x": {
+   "peer_equity": 5547.4371158856575,
+   "discount": 0.49523749213280566
+  }
+ },
+ "now, 24 Nov 2026 price on 30 Sep values": {
+  "m_dry": 0.80179361361343,
+  "m_tank": 1.1186976267148672,
+  "marks": 304.0,
+  "nav1 other at dry bulk multiple": {
+   "peer_equity": 5531.0327284745545,
+   "discount": 0.07981420502935754
+  },
+  "nav1 other at 1.0x": {
+   "peer_equity": 5935.571963089544,
+   "discount": 0.1425295186530251
+  },
+  "nav2 other at dry bulk multiple": {
+   "peer_equity": 7172.732728474553,
+   "discount": 0.2904269626476915
+  },
+  "nav2 other at 1.0x": {
+   "peer_equity": 7577.271963089543,
+   "discount": 0.32831000747335126
+  }
+ },
+ "implied tanker multiple nav1": 0.9196803899880461,
+ "implied tanker multiple nav2": 1.886603232429422
+}

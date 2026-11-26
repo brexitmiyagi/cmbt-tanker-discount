@@ -1,0 +1,25 @@
+pre-war, 31 Dec 2025
+  GNK   dry bulk  EV/fleet value 0.78
+  DHT   tanker    EV/fleet value 1.16
+  INSW  tanker    EV/fleet value 0.88
+  route 1, other at dry bulk multiple: peer-implied equity $2,714m ($9.35); market cap $2,800m; holdco discount -3%
+  route 1, other at 1.0x: peer-implied equity $3,142m ($10.83); market cap $2,800m; holdco discount 11%
+  route 2, other at dry bulk multiple: peer-implied equity $5,119m ($17.64); market cap $2,800m; holdco discount 45%
+  route 2, other at 1.0x: peer-implied equity $5,547m ($19.12); market cap $2,800m; holdco discount 50%
+  segment multiples: dry bulk 0.78, tankers 1.02; charter marks $115m
+now, 24 Nov 2026 price on 30 Sep values
+  SBLK  dry bulk  EV/fleet value 0.78
+  GNK   dry bulk  EV/fleet value 0.83
+  DHT   tanker    EV/fleet value 1.15
+  INSW  tanker    EV/fleet value 1.08
+  route 1, other at dry bulk multiple: peer-implied equity $5,531m ($19.06); market cap $5,090m; holdco discount 8%
+  route 1, other at 1.0x: peer-implied equity $5,936m ($20.46); market cap $5,090m; holdco discount 14%
+  route 2, other at dry bulk multiple: peer-implied equity $7,173m ($24.72); market cap $5,090m; holdco discount 29%
+  route 2, other at 1.0x: peer-implied equity $7,577m ($26.11); market cap $5,090m; holdco discount 33%
+  segment multiples: dry bulk 0.80, tankers 1.12; charter marks $304m
+route 1: with the pre-war holdco discount (-3%), today's price implies tankers (net of charter marks) at 0.92x vs tanker peers 1.12x (-18%)
+route 2: with the pre-war holdco discount (45%), today's price implies tankers (net of charter marks) at 1.89x vs tanker peers 1.12x (+69%)
+route 1, other at dry bulk multiple: pre-war discount -3% on today's peer-implied equity = $19.67 a share
+route 1, other at 1.0x: pre-war discount 11% on today's peer-implied equity = $18.23 a share
+route 2, other at dry bulk multiple: pre-war discount 45% on today's peer-implied equity = $13.52 a share
+route 2, other at 1.0x: pre-war discount 50% on today's peer-implied equity = $13.18 a share

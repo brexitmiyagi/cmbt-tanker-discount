@@ -1,0 +1,4 @@
+base: 2028 halfway from the forward price to the 2015-2025 average: EPS 2027 $2.50, 2028 $1.04 (consensus $1.91, -46%); 2028 FCF $1.73
+2028 at the 2015-2025 average (no phasing): EPS 2027 $2.50, 2028 $-0.50 (consensus $1.91, -126%); 2028 FCF $0.19
+2028 at 2025 rates: EPS 2027 $2.50, 2028 $0.48 (consensus $1.91, -75%); 2028 FCF $1.18
+2028 stays at the 2027 forward price: EPS 2027 $2.50, 2028 $2.57 (consensus $1.91, +35%); 2028 FCF $3.26

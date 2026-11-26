@@ -1,0 +1,24 @@
+route 2: forward NAV a share A $27.90, B $27.64, C $29.79, D $31.45
+  weights mine: value at 0.40x $11.75, 0.57x $16.74, 0.62x $18.21
+  weights Kalshi 25 Nov (Apr 1 12%, Jan 1 2028 33%): value at 0.40x $12.09, 0.57x $17.23, 0.62x $18.74
+  weights Polymarket 25 Nov (Mar 31 12.5%, Dec 31 2027 35.5%): value at 0.40x $12.05, 0.57x $17.17, 0.62x $18.68
+  bear (strait reopens in Q1, dry bulk values -20%, multiple back to 0.40x): $9.49 (-46%); with 12 months of distributions -33%
+route 1: forward NAV a share A $22.24, B $21.98, C $24.13, D $25.79
+  weights mine: value at 0.61x $14.47, 0.70x $16.60, 0.76x $18.02
+  weights Kalshi 25 Nov (Apr 1 12%, Jan 1 2028 33%): value at 0.61x $14.99, 0.70x $17.20, 0.76x $18.67
+  weights Polymarket 25 Nov (Mar 31 12.5%, Dec 31 2027 35.5%): value at 0.61x $14.93, 0.70x $17.13, 0.76x $18.60
+  bear (strait reopens in Q1, dry bulk values -20%, multiple back to 0.61x): $11.02 (-37%); with 12 months of distributions -24%
+12-month distributions on the model $2.35 (13.4%); bought after the 9 Dec ex-date $1.70 (9.7%)
+target: $17.21 -> $17.00 (-3.1%); total return with distributions +10.3%, after the ex-date +6.6%
+at the best multiple on each route $18.71: total +20.0%; at the lowest $13.54: total -9.4%; bear $10.25: total -28.2%
+path D (shut through 2027) at today's multiples: $17.99, total +16.0%
+(base case already has dry bulk values -2.7% by end-2027; the bear takes them to -20% in total)
+dry bulk values -20% = $1,403m of NAV, $2.76 a share at the route 2 multiple today
+expected 12-month total return (25/50/25): +3.7% before the ex-date, +0.0% after; cost of equity 8.2% (4.91% + 0.65 x 5.0%)
+  weights bull/base/bear 35%/50%/15%: +8.5%
+  weights bull/base/bear 25%/50%/25%: +3.7%
+  weights bull/base/bear 15%/50%/35%: -1.1%
+charter marks, Kalshi-weighted: $293m with 3 years assumed, $293m-$293m with 1-5 years: target moves +0.00 to +0.00 a share
+Hormuz paths at today's multiples: A $15.73, B $15.57, C $16.93, D $17.99; range $2.42
+SELL line 3.2%: with bull at 25%, the call is a SELL if the bear case is weighted above 26.4%
+with bull and bear weighted equally, it is a SELL above 26.8% each; base case alone +11.5%

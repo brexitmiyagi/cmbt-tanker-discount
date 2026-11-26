@@ -1,0 +1,8 @@
+INSW: 2019-12-31 0.85, 2020-03-31 0.67, 2020-06-30 0.43, 2020-09-30 0.38, 2020-12-31 0.47, 2021-06-30 0.57
+  peak to trough after the spikes: -56%
+Euronav: 2019-12-31 1.17, 2020-12-31 0.70, 2021-12-31 0.91
+  peak to trough after the spikes: -40%
+DHT: 2019-12-31 1.30, 2020-12-31 0.81, 2021-12-31 0.82
+  peak to trough after the spikes: -38%
+CMB.TECH now, route 2 price/NAV: 0.62 at 30 Sep 2026 against 0.40 at end-2025 (nav_reconcile.py), a fall of -35% if it goes back. after 2019-20 the three fell by 38% to 56%, so the size of the bear move is in the range
+of the last episode. the 2020 spike lasted about two months, this one nine, so it is an imperfect comparison.

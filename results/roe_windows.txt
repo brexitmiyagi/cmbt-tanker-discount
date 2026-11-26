@@ -1,0 +1,16 @@
+Euronav (2015-2024):
+  reported: full span 12.9%; 8-year windows 2015-2022 5.5%, 2016-2023 8.3%, 2017-2024 12.3%
+  adjusted: full span 6.7%; 8-year windows 2015-2022 3.9%, 2016-2023 4.6%, 2017-2024 5.1%
+Star Bulk (2010-2025):
+  reported: full span 4.2%; 8-year windows 2010-2017 -18.8%, 2011-2018 -15.4%, 2012-2019 -12.4%, 2013-2020 -6.8%, 2014-2021 1.0%, 2015-2022 5.9%, 2016-2023 10.7%, 2017-2024 13.4%, 2018-2025 12.7%
+  adjusted: full span 8.0%; 8-year windows 2010-2017 -4.3%, 2011-2018 -3.0%, 2012-2019 -2.6%, 2013-2020 -2.0%, 2014-2021 5.0%, 2015-2022 9.4%, 2016-2023 11.0%, 2017-2024 13.0%, 2018-2025 12.5%
+Golden Ocean (2013-2024):
+  reported: full span 5.9%; 8-year windows 2013-2020 -4.0%, 2014-2021 1.7%, 2015-2022 5.4%, 2016-2023 7.6%, 2017-2024 9.9%
+  adjusted: full span 6.5%; 8-year windows 2013-2020 -2.2%, 2014-2021 3.2%, 2015-2022 6.4%, 2016-2023 7.2%, 2017-2024 9.3%
+common window 2015-2024, reported: Euronav 12.9%, Star Bulk 7.5%, Golden Ocean 6.2%
+common window 2015-2024, adjusted: Euronav 6.7%, Star Bulk 9.7%, Golden Ocean 6.8%
+all 8-year windows, reported: 17 windows, range -18.8% to 13.4%, median 5.5%
+all 8-year windows, adjusted: 17 windows, range -4.3% to 13.0%, median 5.0%
+common window 2015-2024, routine gains kept, Frontline break-up sale and impairments out: Euronav 9.5%, Star Bulk 9.9%, Golden Ocean 7.2%
+Frontline break-up gains taken out: 2023 $323.3m, 2024 $372.7m
+all 8-year windows, routine gains kept: 17 windows, range -5.0% to 13.5%, median 6.4%

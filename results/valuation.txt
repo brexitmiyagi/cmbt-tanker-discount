@@ -1,0 +1,28 @@
+peer price/NAV (NAV = fleet value less net debt):
+  SBLK  dry bulk  market cap $3,140m, NAV $4,125m, 0.76x  (stated: $4.4bn average broker valuations 30 Sep 2026)
+  GNK   dry bulk  market cap $1,027m, NAV $1,300m, 0.79x  (derived: net debt / net loan-to-value 18% (broker valuations)
+  DHT   tanker    market cap $3,438m, NAV $2,932m, 1.17x  (derived: net debt / financial leverage 10.5% on market value)
+  INSW  tanker    market cap $5,057m, NAV $4,650m, 1.09x  (stated on Q3 2026 call: vessels 'currently valued at nearly )
+average: dry bulk 0.78x, tankers 1.13x
+CMB.TECH price/NAV history (route 1):
+  2025-12-31: ratio 44.2%, NAV $15.78 a share, close $9.65, 0.61x
+  2026-06-30: ratio 51.5%, NAV $20.88 a share, close $13.99, 0.67x
+  2026-09-30: ratio 58.1%, NAV $25.02 a share, close $18.93, 0.76x
+  2026-11-24: NAV $25.02, close $17.54, 0.70x
+SOTP route 1: $19.88 to $20.27 a share
+SOTP route 2: $25.54 to $25.93 a share
+SOTP midpoint $22.91; the market price is 0.77x of it, a 23% discount for the structure
+highest CMB.TECH price/NAV in the four points: 0.76x
+forward NAV end-2027 (route 1, uplift held, charter markdown off): $26.19
+  at 0.61x: $15.98
+  at 0.70x: $18.33
+  at 0.76x: $19.90
+  at 0.78x: $20.31
+grid base (route 1 SOTP midpoint) $20.08
+sensitivity, $ a share (rows: Capesize rate, dry bulk deck scaled with it; columns: tanker values):
+  cape $/day    -40%    -30%    -20%    -10%      0%
+      25,000   14.69   15.82   16.94   18.07   19.20
+      30,000   15.32   16.45   17.57   18.70   19.83
+      35,000   15.95   17.08   18.20   19.33   20.46
+      40,000   16.58   17.71   18.83   19.96   21.09
+      45,000   17.21   18.34   19.47   20.59   21.72

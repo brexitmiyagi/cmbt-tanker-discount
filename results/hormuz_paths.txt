@@ -1,0 +1,17 @@
+dry bulk value change by end-2027 -2.7% ($-190m)
+pre-war tanker value per ship vs 30 Sep: -31%; broker uplift $5,405.8m; book equity end-2027 $4,068.9m
+A. Reopens in Q1 2027                         tanker profit  -155m, values -31%, charter marks $151m (1-5 yrs left: $151m-$151m), NAV $27.90; value $17.30 (0.55x $15.34, 0.70x $19.53); dry bulk -20%: $14.70
+B. Reopens in H2 2027                         tanker profit  -103m, values -31%, charter marks $251m (1-5 yrs left: $251m-$251m), NAV $27.64; value $17.14 (0.55x $15.20, 0.70x $19.35); dry bulk -20%: $14.54
+C. Opens, mines and attacks keep risk high    tanker profit    +0m, values -15%, charter marks $160m (1-5 yrs left: $160m-$160m), NAV $29.79; value $18.47 (0.55x $16.38, 0.70x $20.85); dry bulk -20%: $15.88
+D. Stays shut through 2027                    tanker profit  +349m, values +0%, charter marks $332m (1-5 yrs left: $332m-$332m), NAV $31.45; value $19.50 (0.55x $17.30, 0.70x $22.02); dry bulk -20%: $16.91
+weights mine (Sameer)                   : value $18.21 (0.55x $16.15, 0.70x $20.56); bear (dry bulk -20%) $15.62
+weights Polymarket ladder (Mar 31 12.5%, Dec 31 2027 35.5%): value $18.68 (0.55x $16.57, 0.70x $21.09); bear (dry bulk -20%) $16.09
+weights Kalshi (before Apr 1 2027 12%, before Jan 1 2028 33%): value $18.74 (0.55x $16.62, 0.70x $21.16); bear (dry bulk -20%) $16.15
+at 0.62x forward NAV (deck rates, path C charter marks), $17.54 implies tanker values -29% vs 30 Sep
+grid, $ a share (rows: 2027 Capesize $/day; columns: tanker values vs 30 Sep)
+  cape $/day    -40%    -30%    -20%    -10%      0%
+      25,000   16.55   17.22   17.89   18.55   19.22
+      30,000   16.74   17.41   18.08   18.75   19.42
+      35,000   16.94   17.61   18.28   18.95   19.61
+      40,000   17.14   17.80   18.47   19.14   19.81
+      45,000   17.33   18.00   18.67   19.34   20.00

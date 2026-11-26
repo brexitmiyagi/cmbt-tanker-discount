@@ -1,0 +1,7 @@
+since 3 Jan 2025: CMBT +72.6%, FRO +233.5%, DHT +128.0%, SBLK +77.1%, GNK +61.9%
+since the war, 27 Feb 2026: CMBT +18.4%, FRO +25.2%, DHT +9.4%, SBLK +2.5%, GNK -4.3%
+since the 9 Oct 2026 week: CMBT -14.9%, FRO -15.3%, DHT -13.5%, SBLK -9.2%, GNK -13.1%
+weekly return correlation with CMBT, full period 0.61, since the war 0.69  (FRO)
+weekly return correlation with CMBT, full period 0.60, since the war 0.61  (DHT)
+weekly return correlation with CMBT, full period 0.59, since the war 0.72  (SBLK)
+weekly return correlation with CMBT, full period 0.55, since the war 0.58  (GNK)

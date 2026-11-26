@@ -1,0 +1,61 @@
+asset view: bull $18.71, base $17.21, bear $10.25 -> probability-weighted 12-month price $15.85, total return +3.7%
+  (the old target used the base case, $17.21; with $2.35 of distributions that alone is +11.5%)
+
+12-month target and rating, 50/50 asset view and DCF, by normal-year return and cost of equity:
+ cost of equity 7.5% (beta 0.52 (18 months daily)): SELL below 2.5%, BUY above 12.5%
+   predecessors, all gains out (v13)    6.8%: DCF $17.94 today, $16.94 in 12 months; target $16.39 -> +6.8%, between the lines
+   predecessors, routine gains in       7.9%: DCF $19.88 today, $19.03 in 12 months; target $17.44 -> +12.8%, BUY
+   three companies, routine gains in    8.9%: DCF $21.50 today, $20.77 in 12 months; target $18.31 -> +17.8%, BUY
+   Star Bulk, routine gains in          9.9%: DCF $23.25 today, $22.65 in 12 months; target $19.25 -> +23.1%, BUY
+ cost of equity 8.2% (beta 0.65 (1 year daily, v13)): SELL below 3.2%, BUY above 13.2%
+   predecessors, all gains out (v13)    6.8%: DCF $16.89 today, $15.92 in 12 months; target $15.88 -> +4.0%, between the lines
+   predecessors, routine gains in       7.9%: DCF $18.66 today, $17.84 in 12 months; target $16.84 -> +9.4%, between the lines
+   three companies, routine gains in    8.9%: DCF $20.14 today, $19.44 in 12 months; target $17.64 -> +14.0%, BUY
+   Star Bulk, routine gains in          9.9%: DCF $21.73 today, $21.16 in 12 months; target $18.50 -> +18.9%, BUY
+ cost of equity 9.4% (beta 0.89 (18 months weekly)): SELL below 4.4%, BUY above 14.4%
+   predecessors, all gains out (v13)    6.8%: DCF $15.34 today, $14.43 in 12 months; target $15.14 -> -0.3%, SELL
+   predecessors, routine gains in       7.9%: DCF $16.85 today, $16.08 in 12 months; target $15.96 -> +4.4%, between the lines
+   three companies, routine gains in    8.9%: DCF $18.12 today, $17.47 in 12 months; target $16.66 -> +8.3%, between the lines
+   Star Bulk, routine gains in          9.9%: DCF $19.48 today, $18.96 in 12 months; target $17.40 -> +12.6%, between the lines
+cost of equity 7.5%: the price needs 6.5% on end-2028 book; 47% of the 17 eight-year windows (routine gains kept) beat that
+cost of equity 8.2%: the price needs 7.2% on end-2028 book; 41% of the 17 eight-year windows (routine gains kept) beat that
+cost of equity 9.4%: the price needs 8.4% on end-2028 book; 29% of the 17 eight-year windows (routine gains kept) beat that
+
+central: predecessors with routine gains 7.9%, cost of equity 8.2%: target $16.84 (rounded $16.75), expected total return +9.4%, between the lines
+SELL needs a normal-year return below 6.6%; BUY needs above 8.7%
+
+published: SELL on the strict basis. target $15.88 -> $15.90 (rounded up, against the call), expected total return +4.0% vs SELL line 3.2%
+  12-month prices: asset view $15.85, DCF $15.92; distributions $2.35
+  across the 12 combinations above: 1 SELL, 5 BUY, 6 between the lines
+  the call stays a SELL while the bear case carries more than 29.0% (bull at 25%); I use 25%, Kalshi gives a reopening before 2028 about 33%
+
+cost of equity at the middle of the beta range (8.43%): strict case target $15.72, expected +3.0% vs SELL line 3.4%
+  bear weight 22% (bull 25%) at 8.2%: expected +4.6%
+  bear weight 25% (bull 25%) at 8.2%: expected +4.0%
+  bear weight 33% (bull 25%) at 8.2%: expected +2.4%
+  at 8.43% the SELL needs a normal-year return below 6.9%
+
+v16 published: normal-year return 6.14% (6.8% with no sale gains, ship prices -2% a year); DCF $15.93 today, $14.88 in 12 months; asset view $15.85; target $15.36 -> $15.40 (rounded up), expected +1.2% vs SELL line 3.2%
+  v16: the SELL holds while the bear case carries more than 14.0% (bull 25%)
+  v16 at cost of equity 7.50%: expected +3.6% vs SELL line 2.5%
+  v16 at cost of equity 8.43%: expected -0.0% vs SELL line 3.4%
+  v16 at cost of equity 9.40%: expected -3.0% vs SELL line 4.4%
+  v16 at Kalshi's 33% bear weight (bull 25%): expected -0.6%
+
+v17 published: drift -2.0% a year (evidence range -2.3% to -4.5%), weights 25/42/33 (Kalshi bear)
+  asset view: bull $18.58, base $17.10, bear $10.25 -> $15.21; DCF in 12 months $14.88
+  target $15.04 -> $15.05 (rounded up), expected -0.8% vs SELL line 3.2%
+  v17 drift flat                   weights 25/42/33: expected +2.4%
+  v17 drift flat                   weights 25/50/25: expected +4.0%
+  v17 drift -2.3% (20-year close)  weights 25/42/33: expected -1.3%
+  v17 drift -2.3% (20-year close)  weights 25/50/25: expected +0.2%
+  v17 drift -4.5% (10-year close)  weights 25/42/33: expected -5.7%
+  v17 drift -4.5% (10-year close)  weights 25/50/25: expected -4.3%
+  v17 drift +3.7% (2016-23)        weights 25/42/33: expected +8.2%
+  v17 drift +3.7% (2016-23)        weights 25/50/25: expected +9.9%
+  v17 at cost of equity 7.50%: expected +1.8% vs SELL line 2.5%
+  v17 at cost of equity 8.43%: expected -1.8% vs SELL line 3.4%
+  v17 at cost of equity 9.40%: expected -4.8% vs SELL line 4.4%
+  v17: the SELL holds for any drift below +0.50% a year
+  v17: at -2% drift the SELL holds while the bear carries more than 12.5%
+  v17 at -2% drift, weights 25/50/25: expected +0.7%

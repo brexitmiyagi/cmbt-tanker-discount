@@ -1,0 +1,23 @@
+value_adjusted_equity: 'Value Adjusted Equity' means the amount of the Stockholders' Equity adjusted with the Excess Value
+value_adjusted_total_assets: 'Value Adjusted Total Assets' means the book value of the Total Assets adjusted with the Excess Value
+excess_value: 'Excess Value' means the difference between the market value and the book value of the Group's Vessels
+vessels: 'Vessels' means any vessels fully owned by a member of the Group within pre-agreed segments
+covenant_levels: at least 25% on or before 31 December 2025; 27.5% during 2026; 30% thereafter
+sale_leaseback_dec_2025: partially refinanced again in December 2025 through four sale and leaseback arrangements for 20 vessels in the former Golden Ocean fleet
+sale_leaseback_other: sale and leaseback agreements for two Newcastlemax vessels (Dec 2022) and two newbuild 210000 dwt Newcastlemaxes (Dec 2023); contracts from a 2015 sale and leaseback of eight Capesize vessels
+bridge_drawn_2025-12-31_usd_k: 122522
+bridge_drawn_2026-06-30_usd_k: 0
+facility_2b_margin_2025-12-31: SOFR + 2.10% - 2.75%
+facility_2b_margin_2026-06-30: SOFR + 1.50% - 2.00%
+only_facility_agreement_filed: 4.1 $1400.0 Million Bridge Facilities Agreement dated March 4 2025
+covenant_text_20F_2025: ratio of value adjusted stockholders' equity to value adjusted total assets of at least 25% to end-2025; 27.5% during 2026; 30% after
+2025-12-31: route 2 - route 1 = $8.29 a share = $2,406m of ship value over book that the covenant measure leaves out
+2026-06-30: route 2 - route 1 = $4.72 a share = $1,370m of ship value over book that the covenant measure leaves out
+2026-09-30: route 2 - route 1 = $5.66 a share = $1,642m of ship value over book that the covenant measure leaves out
+2025-12-31: uplift on route 2 $4,362m, counted by the covenant $1,957m, left out 55%
+2026-06-30: uplift on route 2 $4,310m, counted by the covenant $2,939m, left out 32%
+2026-09-30: uplift on route 2 $5,406m, counted by the covenant $3,764m, left out 30%
+the leaseback deals fit the end-2025 peak, but nothing I can find in the Q1 or Q2 2026 releases (no refinancing or leaseback buy-back) explains the drop to about 30% by June. correction: the bridge was not repaid in Q4 2025. $122.5m was still drawn at 31 Dec 2025 and nil at 30 Jun 2026 (debt tables), and the $2bn facility was repriced in the same half. see covenant_timeline.py.
+30 Sep: that is 30% of the $5,406m total uplift. at the fleet-wide uplift ratio (44% of value), it would take about $3,702m of ships (30% of the fleet) outside the definition
+known candidates: 20 ex-Golden Ocean bulkers put into sale-and-leaseback in Dec 2025, 4 Newcastlemaxes (2022, 2023), 8 Capesizes from 2015, JV Newcastlemaxes. the Dec 2025 deal lines up with the biggest gap ($8.29 at end-2025).
+so route 2 is the economic NAV (the leased ships come back to CMB.TECH through purchase obligations and options), and route 1 is the lenders' measure.

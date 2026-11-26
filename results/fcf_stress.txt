@@ -1,0 +1,10 @@
+division  base $m  $m per $1k/day  cash breakeven $/day  (company P&L breakeven)
+VLCC            148     1.63             31,850              34,769
+Suezmax         144     2.84             26,773              25,512
+Newcastlemax    209    15.51             27,136              29,823
+Capesize        147    11.26             18,916              21,096
+Kamsarmax        30    10.56             14,208              14,659
+divisions held flat (FSO, chemical, container, CSOV): $45m
+company base deck: FY2027 FCF $723m = $2.49 a share, 14.2% of the $5,090m market cap
+tankers at Q3 2025 rates, dry bulk at company base: FY2027 FCF $490m = $1.69 a share, 9.6% of the $5,090m market cap
+everything at Q3 2025 rates: FY2027 FCF $158m = $0.55 a share, 3.1% of the $5,090m market cap

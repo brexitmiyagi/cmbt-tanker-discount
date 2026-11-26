@@ -1,0 +1,14 @@
+Suezmax time charter average, $/day: q1_2025 31,328, q2_2025 33,023, q3_2025 33,455, q1_2026 33,905, q2_2026 34,726, q3_2026 32,986
+Q3 2026: 717 Suezmax time charter days earned $23.7m; at the Q3 spot rate $106.5m; gap $82.9m = $0.29 a share
+Q4 2026 if time charter days match Q3: $23.7m on charter vs $270.4m at the Q4-to-date spot rate; gap $246.8m = $0.85 a share
+2027 Suezmax spot days implied by slide 8: 2,839 (7.8 ships); on charter 2,271 (6.2 ships)
+2027 VLCC spot days implied: 1,633; on charter 192 (about 6.3 months of one ship, consistent with the 1-year VLCC charter from June 2026)
+2027 cost of the charters against the company base deck: $108.2m = $0.37 a share
+after 2027 at the pre-war Suezmax spot rate the charters still cost $34.6m a year
+charter-adjusted markdown, 3 more years after 2027: $183m = $0.63 a share
+charter-adjusted markdown, 8 more years after 2027: $284m = $0.98 a share
+3 yrs: charter-adjusted tanker value $2,945m, market pays $1,945m = 66% of it; NAV route 1 $24.39, route 2 $30.04; at Star Bulk 0.76x $18.56 / $22.87, midpoint $20.72
+8 yrs: charter-adjusted tanker value $2,844m, market pays $1,945m = 68% of it; NAV route 1 $24.04, route 2 $29.70; at Star Bulk 0.76x $18.30 / $22.60, midpoint $20.45
+tankers on the 1 Apr 2026 20-F list sold since: 8, of which on time charter: 1
+half decade-average tanker markdown less charters (3 yrs): $20.50
+half decade-average tanker markdown less charters (8 yrs): $20.15

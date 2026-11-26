@@ -1,0 +1,8 @@
+CMBT: correlation of log price with reopening odds, weekly since March: -0.83
+DHT: correlation of log price with reopening odds, weekly since March: -0.84
+SBLK: correlation of log price with reopening odds, weekly since March: -0.69
+CMBT: a 10-point fall in reopening odds came with a +0.5% weekly move on average (36 weeks)
+DHT: a 10-point fall in reopening odds came with a +0.6% weekly move on average (36 weeks)
+SBLK: a 10-point fall in reopening odds came with a +1.5% weekly move on average (36 weeks)
+odds 88% on 2026-03-20 -> 2% on 2026-11-24; CMBT $12.22 -> $17.54
+CMB.TECH price/NAV on the broker basis: 0.40 at end-2025 (before the war), 0.55 at 30 Jun (odds about 71%), 0.62 at 30 Sep (odds about 16%), 0.57 on 24 Nov (odds 2%, September NAV)

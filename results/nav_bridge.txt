@@ -1,0 +1,15 @@
+book equity $3,495.0m = $12.04 a share on 290.17m shares (ex treasury)
+gross debt incl leases $4,938.5m, cash $68.2m, net debt $4,870.3m
+route 1, value-adjusted equity 58.1%: uplift $3,764.1m, NAV $7,259.1m = $25.02 a share
+route 2, broker FMV $12,186m vs vessels at book $6,780.2m: uplift $5,405.8m, NAV $8,900.8m = $30.67 a share
+market cap at $17.54: $5,089.6m; price/NAV route 1 0.70, route 2 0.57
+route 1: gap to market cap $2,169.6m = 69.4% of the $3,128m tanker FMV
+route 2: gap to market cap $3,811.2m = 121.8% of the $3,128m tanker FMV
+15-year-old VLCC: $165m today vs $46m 10-year average, -72.1% to get back to average
+15-year-old Suezmax: $105m today vs $32m 10-year average, -69.5% to get back to average
+route 1 NAV with tankers marked down 72.1%: $5,003.2m = $17.24 a share
+route 1 NAV with tankers marked down 36.1%: $6,131.2m = $21.13 a share
+route 1 NAV with dry bulk marked down 10% (tankers at broker value): $22.60 a share
+route 1 NAV with dry bulk marked down 20% (tankers at broker value): $20.18 a share
+route 1 NAV with dry bulk marked down 30% (tankers at broker value): $17.76 a share
+route 1 NAV with tankers at decade average and dry bulk down 20%: $12.41 a share

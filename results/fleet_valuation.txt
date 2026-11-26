@@ -1,0 +1,15 @@
+curves: secondhand_values_2026-11-16.csv
+Newcastlemax   41 ships, $3,773m, average $92.0m
+Kamsarmax      26 ships, $985m, average $37.9m
+Capesize       37 ships, $2,041m, average $55.2m
+Panamax         4 ships, $116m, average $29.0m
+dry bulk, my curves: 108 ships $6,915m vs the company broker figure $7,017m (108 ships on 30 Sep) = -1.4%
+VLCCs (4): $964m; Suezmaxes (14): $1,843m; together $2,807m vs company $3,128m for 20 tankers incl. 2 FSOs
+company tanker value per ship: $108m at end-2025 (pre-war), $156m at 30 Sep 2026 (+44%); fleet mix differs
+charter marks, other 8 Suezmax charters assumed 1 yr left: Suezmax $426m + VLCC $32m = $458m
+charter marks, other 8 Suezmax charters assumed 3 yr left: Suezmax $503m + VLCC $32m = $534m
+charter marks, other 8 Suezmax charters assumed 5 yr left: Suezmax $568m + VLCC $32m = $600m
+NAV, my dry bulk + company tankers less charters (long): fleet $11,485m -> NAV $8,331m = $28.71 a share; price/NAV 0.61x
+NAV, my dry bulk + company tankers less charters (mid): fleet $11,550m -> NAV $8,396m = $28.93 a share; price/NAV 0.61x
+NAV, my dry bulk + company tankers less charters (short): fleet $11,626m -> NAV $8,472m = $29.20 a share; price/NAV 0.60x
+implied value left for the two FSOs if my tanker curves are right: $321m

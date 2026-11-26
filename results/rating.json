@@ -1,0 +1,110 @@
+{
+ "beta 0.52 (18 months daily)|predecessors, all gains out (v13)": {
+  "r": 0.06769167077378019,
+  "k": 0.0751,
+  "dcf_today": 17.940339516884613,
+  "dcf_px12": 16.939504486700287,
+  "target": 16.39240391465622,
+  "er": 0.06844688954153821,
+  "rating": "between the lines"
+ },
+ "beta 0.52 (18 months daily)|predecessors, routine gains in": {
+  "r": 0.0791139807284938,
+  "k": 0.0751,
+  "dcf_today": 19.882169144285136,
+  "dcf_px12": 19.02716551911859,
+  "target": 17.436234430865376,
+  "er": 0.1279583214804867,
+  "rating": "BUY"
+ },
+ "beta 0.52 (18 months daily)|three companies, routine gains in": {
+  "r": 0.08864989859058438,
+  "k": 0.0751,
+  "dcf_today": 21.503306016115857,
+  "dcf_px12": 20.770049770023796,
+  "target": 18.30767655631798,
+  "er": 0.17764145292020173,
+  "rating": "BUY"
+ },
+ "beta 0.52 (18 months daily)|Star Bulk, routine gains in": {
+  "r": 0.09891916380816776,
+  "k": 0.0751,
+  "dcf_today": 23.24911430972709,
+  "dcf_px12": 22.646968266485235,
+  "target": 19.246135804548697,
+  "er": 0.23114540093791658,
+  "rating": "BUY"
+ },
+ "beta 0.65 (1 year daily, v13)|predecessors, all gains out (v13)": {
+  "r": 0.06769167077378019,
+  "k": 0.0816,
+  "dcf_today": 16.893878677518362,
+  "dcf_px12": 15.924264649701497,
+  "target": 15.884783996156827,
+  "er": 0.03950618723256483,
+  "rating": "between the lines"
+ },
+ "beta 0.65 (1 year daily, v13)|predecessors, routine gains in": {
+  "r": 0.0791139807284938,
+  "k": 0.0816,
+  "dcf_today": 18.66360841708279,
+  "dcf_px12": 17.838404336014385,
+  "target": 16.841853839313274,
+  "er": 0.09407117258926068,
+  "rating": "between the lines"
+ },
+ "beta 0.65 (1 year daily, v13)|three companies, routine gains in": {
+  "r": 0.08864989859058438,
+  "k": 0.0816,
+  "dcf_today": 20.141067661447032,
+  "dcf_px12": 19.436424254718748,
+  "target": 17.640863798665453,
+  "er": 0.13962476206201901,
+  "rating": "BUY"
+ },
+ "beta 0.65 (1 year daily, v13)|Star Bulk, routine gains in": {
+  "r": 0.09891916380816776,
+  "k": 0.0816,
+  "dcf_today": 21.73214898659809,
+  "dcf_px12": 21.157337816002133,
+  "target": 18.501320579307148,
+  "er": 0.18868159106097537,
+  "rating": "BUY"
+ },
+ "beta 0.89 (18 months weekly)|predecessors, all gains out (v13)": {
+  "r": 0.06769167077378019,
+  "k": 0.09359999999999999,
+  "dcf_today": 15.338678982416454,
+  "dcf_px12": 14.426224807268271,
+  "target": 15.135764074940216,
+  "er": -0.003197343053444879,
+  "rating": "SELL"
+ },
+ "beta 0.89 (18 months weekly)|predecessors, routine gains in": {
+  "r": 0.0791139807284938,
+  "k": 0.09359999999999999,
+  "dcf_today": 16.854104328739915,
+  "dcf_px12": 16.08349396600761,
+  "target": 15.964398654309884,
+  "er": 0.04404522133479172,
+  "rating": "between the lines"
+ },
+ "beta 0.89 (18 months weekly)|three companies, routine gains in": {
+  "r": 0.08864989859058438,
+  "k": 0.09359999999999999,
+  "dcf_today": 18.119257497053937,
+  "dcf_px12": 17.467065470875824,
+  "target": 16.65618440674399,
+  "er": 0.08348568612578955,
+  "rating": "between the lines"
+ },
+ "beta 0.89 (18 months weekly)|Star Bulk, routine gains in": {
+  "r": 0.09891916380816776,
+  "k": 0.09359999999999999,
+  "dcf_today": 19.48170562361889,
+  "dcf_px12": 18.957038742087256,
+  "target": 17.40117104234971,
+  "er": 0.1259592685434474,
+  "rating": "between the lines"
+ }
+}

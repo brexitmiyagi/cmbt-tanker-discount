@@ -1,0 +1,72 @@
+ship by ship, at the 2023 age curve (10-year/5-year 0.755):
+  Cap Charles Suezmax built 2006 age 16.6: cost~$ 59.6m book $ 18.5m flat-price $ 23.4m sold $ 40.5m -> depreciation   +4.9, price  +17.1
+  Nautica     VLCC    built 2008 age 15.0: cost~$ 49.7m book $ 26.8m flat-price $ 21.3m sold $ 53.9m -> depreciation   -5.5, price  +32.6
+  Alex        VLCC    built 2016 age  7.4: cost~$ 87.4m book $ 62.2m flat-price $ 57.7m sold $ 86.4m -> depreciation   -4.6, price  +28.7
+  Ardeche     VLCC    built 2017 age  6.4: cost~$ 76.7m book $ 58.3m flat-price $ 53.5m sold $ 90.4m -> depreciation   -4.8, price  +36.9
+  Drenec      VLCC    built 2016 age  7.4: cost~$ 78.0m book $ 56.3m flat-price $ 51.4m sold $ 86.3m -> depreciation   -4.8, price  +34.9
+  Heron       VLCC    built 2017 age  6.4: cost~$ 76.6m book $ 58.2m flat-price $ 53.4m sold $ 89.1m -> depreciation   -4.8, price  +35.7
+  Arafura     VLCC    built 2016 age  7.4: cost~$ 78.6m book $ 56.7m flat-price $ 51.9m sold $ 87.1m -> depreciation   -4.8, price  +35.2
+  Amundsen    VLCC    built 2017 age  6.4: cost~$ 79.2m book $ 60.0m flat-price $ 55.2m sold $ 90.7m -> depreciation   -4.8, price  +35.4
+  Diodorus    VLCC    built 2021 age  2.4: cost~$ 92.7m book $ 83.9m flat-price $ 81.0m sold $113.1m -> depreciation   -2.9, price  +32.1
+  Dickens     VLCC    built 2021 age  2.4: cost~$ 92.3m book $ 83.5m flat-price $ 80.6m sold $113.4m -> depreciation   -2.9, price  +32.8
+  Dalis       VLCC    built 2020 age  3.4: cost~$ 97.7m book $ 84.4m flat-price $ 80.7m sold $107.9m -> depreciation   -3.7, price  +27.2
+  Cassius     VLCC    built 2023 age  0.4: cost~$ 93.1m book $ 91.6m flat-price $ 91.0m sold $123.5m -> depreciation   -0.6, price  +32.5
+  Clovis      VLCC    built 2023 age  0.4: cost~$ 95.2m book $ 93.7m flat-price $ 93.1m sold $124.3m -> depreciation   -0.6, price  +31.2
+  Andaman     VLCC    built 2016 age  7.6: cost~$ 79.5m book $ 56.6m flat-price $ 51.9m sold $ 87.0m -> depreciation   -4.8, price  +35.1
+  Dominica    VLCC    built 2015 age  8.6: cost~$ 78.1m book $ 52.8m flat-price $ 48.2m sold $ 82.7m -> depreciation   -4.7, price  +34.5
+  Hatteras    VLCC    built 2017 age  6.6: cost~$ 79.1m book $ 59.4m flat-price $ 54.6m sold $ 90.3m -> depreciation   -4.8, price  +35.7
+  Derius      VLCC    built 2019 age  4.6: cost~$100.0m book $ 81.5m flat-price $ 77.2m sold $104.6m -> depreciation   -4.2, price  +27.4
+  Alboran     VLCC    built 2016 age  7.6: cost~$ 79.1m book $ 56.4m flat-price $ 51.6m sold $ 86.4m -> depreciation   -4.8, price  +34.8
+  Delos       VLCC    built 2021 age  2.6: cost~$ 93.2m book $ 83.6m flat-price $ 80.5m sold $112.9m -> depreciation   -3.1, price  +32.3
+  Desirade    VLCC    built 2016 age  7.6: cost~$ 78.6m book $ 56.1m flat-price $ 51.3m sold $ 86.0m -> depreciation   -4.8, price  +34.7
+  Alice       VLCC    built 2016 age  7.6: cost~$ 87.6m book $ 61.6m flat-price $ 57.1m sold $ 86.0m -> depreciation   -4.5, price  +28.8
+  Aquitaine   VLCC    built 2017 age  6.6: cost~$ 78.0m book $ 58.7m flat-price $ 53.8m sold $ 90.3m -> depreciation   -4.8, price  +36.4
+  Doris       VLCC    built 2021 age  2.6: cost~$ 94.2m book $ 84.4m flat-price $ 81.4m sold $113.0m -> depreciation   -3.1, price  +31.6
+  Aral        VLCC    built 2016 age  7.6: cost~$ 79.2m book $ 56.4m flat-price $ 51.7m sold $ 86.5m -> depreciation   -4.8, price  +34.8
+  Anne        VLCC    built 2016 age  7.6: cost~$ 89.5m book $ 62.8m flat-price $ 58.4m sold $ 86.3m -> depreciation   -4.4, price  +27.9
+  Camus       VLCC    built 2023 age  0.6: cost~$ 94.5m book $ 92.2m flat-price $ 91.3m sold $123.4m -> depreciation   -0.9, price  +32.1
+  Noble       VLCC    built 2008 age 15.9: cost~$ 50.5m book $ 25.7m flat-price $ 20.7m sold $ 54.0m -> depreciation   -5.0, price  +33.3
+  Nectar      VLCC    built 2008 age 15.9: cost~$ 41.5m book $ 23.9m flat-price $ 19.3m sold $ 54.0m -> depreciation   -4.6, price  +34.6
+  Newton      VLCC    built 2009 age 14.9: cost~$ 74.1m book $ 33.3m flat-price $ 32.1m sold $ 54.0m -> depreciation   -1.2, price  +21.9
+  Sapphira    Suezmax built 2008 age 16.2: cost~$ 34.4m book $ 14.7m flat-price $ 13.8m sold $ 45.5m -> depreciation   -0.9, price  +31.7
+  Statia      Suezmax built 2006 age 18.2: cost~$ 17.0m book $ 10.7m flat-price $ 10.1m sold $ 41.2m -> depreciation   -0.6, price  +31.1
+  Selena      Suezmax built 2007 age 17.5: cost~$ 23.2m book $ 11.8m flat-price $ 10.1m sold $ 38.2m -> depreciation   -1.7, price  +28.1
+  Cap Victor  Suezmax built 2007 age 17.5: cost~$ 53.0m book $ 15.6m flat-price $ 19.9m sold $ 39.0m -> depreciation   +4.3, price  +19.1
+  Cap Felix   Suezmax built 2008 age 16.5: cost~$ 71.4m book $ 21.0m flat-price $ 28.3m sold $ 42.3m -> depreciation   +7.3, price  +14.0
+  Alsace      VLCC    built 2012 age 12.9: cost~$160.4m book $ 69.4m flat-price $ 77.7m sold $ 96.8m -> depreciation   +8.3, price  +19.2
+  Cap Lara    Suezmax built 2007 age 17.9: cost~$ 51.2m book $ 14.4m flat-price $ 18.7m sold $ 33.2m -> depreciation   +4.3, price  +14.5
+  Iris        VLCC    built 2012 age 12.9: cost~$ 85.6m book $ 42.9m flat-price $ 41.5m sold $100.0m -> depreciation   -1.4, price  +58.5
+  Hakata      VLCC    built 2010 age 14.9: cost~$ 95.5m book $ 38.7m flat-price $ 41.3m sold $ 57.8m -> depreciation   +2.6, price  +16.5
+  Hakone      VLCC    built 2010 age 14.9: cost~$ 82.4m book $ 35.4m flat-price $ 35.7m sold $ 55.6m -> depreciation   +0.3, price  +20.0
+  Dalma       VLCC    built 2007 age 17.9: cost~$ 34.7m book $ 20.9m flat-price $ 19.3m sold $ 47.3m -> depreciation   -1.6, price  +28.0
+  Sofia       Suezmax built 2010 age 14.9: cost~$ 47.7m book $ 19.7m flat-price $ 20.6m sold $ 40.1m -> depreciation   +0.9, price  +19.5
+  Daishan     VLCC    built 2007 age 18.6: cost~$ 35.9m book $ 20.5m flat-price $ 19.3m sold $ 47.0m -> depreciation   -1.2, price  +27.7
+  Dia         VLCC    built 2015 age 10.6: cost~$ 81.2m book $ 48.4m flat-price $ 44.7m sold $103.0m -> depreciation   -3.7, price  +58.3
+  Hojo        VLCC    built 2013 age 12.6: cost~$ 99.2m book $ 48.9m flat-price $ 48.9m sold $ 85.0m -> depreciation   -0.0, price  +36.1
+  Hirado      VLCC    built 2011 age 14.6: cost~$ 92.9m book $ 39.2m flat-price $ 40.9m sold $ 75.0m -> depreciation   +1.7, price  +34.1
+  Antigone    VLCC    built 2015 age 10.6: cost~$ 92.7m book $ 53.8m flat-price $ 51.1m sold $103.0m -> depreciation   -2.7, price  +51.9
+  Aegean      VLCC    built 2016 age  9.6: cost~$ 78.2m book $ 50.0m flat-price $ 45.6m sold $107.0m -> depreciation   -4.3, price  +61.4
+  Ingrid      VLCC    built 2012 age 13.8: cost~$ 83.6m book $ 39.2m flat-price $ 38.5m sold $ 88.8m -> depreciation   -0.8, price  +50.3
+  Ilma        VLCC    built 2012 age 13.8: cost~$ 86.6m book $ 40.2m flat-price $ 39.9m sold $ 88.8m -> depreciation   -0.3, price  +48.9
+  Sienna      Suezmax built 2007 age 18.9: cost~$ 57.7m book $ 12.7m flat-price $ 19.9m sold $ 41.9m -> depreciation   +7.2, price  +22.0
+
+10-year/5-year value ratio 0.69: 50 tankers, gains $1,533m = depreciation $-364m (-24%) + price $1,897m (124%)
+  other 2023-25    17 ships: gains $   450m, depreciation $   -75m, price $  +526m
+  Frontline block  24 ships: gains $   696m, depreciation $  -218m, price $  +914m
+  2026 pre-war      9 ships: gains $   387m, depreciation $   -70m, price $  +457m
+
+10-year/5-year value ratio 0.755: 50 tankers, gains $1,533m = depreciation $-86m (-6%) + price $1,619m (106%)
+  other 2023-25    17 ships: gains $   450m, depreciation $   +10m, price $  +440m
+  Frontline block  24 ships: gains $   696m, depreciation $   -93m, price $  +789m
+  2026 pre-war      9 ships: gains $   387m, depreciation $    -4m, price $  +391m
+
+10-year/5-year value ratio 0.8: 50 tankers, gains $1,533m = depreciation $130m (8%) + price $1,403m (92%)
+  other 2023-25    17 ships: gains $   450m, depreciation $   +86m, price $  +364m
+  Frontline block  24 ships: gains $   696m, depreciation $    -4m, price $  +700m
+  2026 pre-war      9 ships: gains $   387m, depreciation $   +47m, price $  +339m
+
+Suezmaxes built 2023-24 and sold in 2026 (gains from the HY 2026 report and Q3 release; prices estimated):
+  Brest + Brugge: age 2.9, book about $58.2m each, implied sale about $108m each against a $66.4m build cost; flat-price value $56.4m, so depreciation -1.8 and price +51.9 a ship (104% of the gain is price)
+  Bristol: age 2.7, book about $58.8m each, implied sale about $116m each against a $66.4m build cost; flat-price value $57.1m, so depreciation -1.8 and price +58.7 a ship (103% of the gain is price)
+
+lightweight 15% either way, all three age curves: price part 82% to 126% of the gains

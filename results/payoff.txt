@@ -1,0 +1,5 @@
+probability-weighted value (A/B/C/D at 20/25/25/30): $18.21 -> at the best multiple $18.00 (+2.6%)
+12-month distributions about $2.35 = 13.4%; total +16.0%
+dry bulk -20% with the multiple still at 0.62x (dry bulk values -20% in every path): $15.62 (-11.0%), +2.4% with distributions
+multiple sensitivity: 0.55x $16.15, 0.62x $18.21, 0.70x $20.56
+Q3 charter gap $82.9m = $0.29 a share; spot is 4.5x the charter average

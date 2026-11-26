@@ -1,0 +1,16 @@
+bridge drawn: 31 Dec 2025 $122.5m, 30 Jun 2026 $0.0m
+$2bn facility margin: 31 Dec 2025 SOFR + 2.10% - 2.75%, 30 Jun 2026 SOFR + 1.50% - 2.00% (repriced in the half)
+exhibits filed with the 2025 20-F: 4.1 $1400.0 Million Bridge Facilities Agreement dated March 4 2025
+share of fleet value over book left out of the covenant measure, from nav_covenant.py:
+  covenant_levels: at least 25% on or before 31 December 2025; 27.5% during 2026; 30% thereafter
+  facility_2b_margin_2025-12-31: SOFR + 2.10% - 2.75%
+  facility_2b_margin_2026-06-30: SOFR + 1.50% - 2.00%
+  covenant_text_20F_2025: ratio of value adjusted stockholders' equity to value adjusted total assets of at least 25% to end-2025; 27.5% during 2026; 30% after
+  2025-12-31: uplift on route 2 $4,362m, counted by the covenant $1,957m, left out 55%
+  2026-06-30: uplift on route 2 $4,310m, counted by the covenant $2,939m, left out 32%
+  2026-09-30: uplift on route 2 $5,406m, counted by the covenant $3,764m, left out 30%
+  the leaseback deals fit the end-2025 peak, but nothing I can find in the Q1 or Q2 2026 releases (no refinancing or leaseback buy-back) explains the drop to about 30% by June. correction: the bridge was not repaid in Q4 2025. $122.5m was still drawn at 31 Dec 2025 and nil at 30 Jun 2026 (debt tables), and the $2bn facility was repriced in the same half. see covenant_timeline.py.
+  30 Sep: that is 30% of the $5,406m total uplift. at the fleet-wide uplift ratio (44% of value), it would take about $3,702m of ships (30% of the fleet) outside the definition
+so the gap was widest while the bridge, with the narrow definition, was still drawn, and shrank in the half the
+bridge was repaid and the $2bn facility was repriced. that fits a change in which definition governs the reported
+ratio. it does not prove it: the newer facility agreements are not on file.

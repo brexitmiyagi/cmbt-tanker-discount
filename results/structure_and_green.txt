@@ -1,0 +1,6 @@
+CMB NV: 61.6% of shares outside treasury (56.56% of issued); free float 111.4m shares
+US register: 30.4% of shares outside treasury; short interest 2.9% of free float, 2.9 days of US volume
+Newcastlemax cost proxy $89.8m; capital charge $8.42m a year = $23,056/day; plus opex = $30,095/day needed for 8%
+  with a 10% ammonia premium on cost: $32,401/day
+  with a 20% ammonia premium on cost: $34,706/day
+  with a 30% ammonia premium on cost: $37,012/day

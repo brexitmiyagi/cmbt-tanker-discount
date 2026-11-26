@@ -1,0 +1,40 @@
+contract B270101 (2026-03-18 to 2026-11-24):
+  daily  CMBT: a 10-point rise in reopening odds -> -0.42% (t -0.8), correlation of changes -0.06, 174 obs
+  daily  DHT : a 10-point rise in reopening odds -> -0.43% (t -0.8), correlation of changes -0.06, 174 obs
+  daily  FRO : a 10-point rise in reopening odds -> -0.75% (t -1.3), correlation of changes -0.10, 174 obs
+  daily  SBLK: a 10-point rise in reopening odds -> -0.71% (t -1.7), correlation of changes -0.13, 174 obs
+  weekly CMBT: a 10-point rise in reopening odds -> -1.49% (t -1.1), correlation of changes -0.19, 34 obs
+  weekly DHT : a 10-point rise in reopening odds -> -0.86% (t -0.6), correlation of changes -0.10, 34 obs
+  weekly FRO : a 10-point rise in reopening odds -> -1.91% (t -1.0), correlation of changes -0.18, 34 obs
+  weekly SBLK: a 10-point rise in reopening odds -> -0.82% (t -0.9), correlation of changes -0.16, 34 obs
+  levels (the old test), CMBT daily: correlation -0.84
+contract B270701 (2026-04-14 to 2026-11-24):
+  daily  CMBT: a 10-point rise in reopening odds -> +0.30% (t +0.5), correlation of changes +0.04, 156 obs
+  daily  DHT : a 10-point rise in reopening odds -> +0.06% (t +0.1), correlation of changes +0.01, 156 obs
+  daily  FRO : a 10-point rise in reopening odds -> -0.51% (t -0.7), correlation of changes -0.06, 156 obs
+  daily  SBLK: a 10-point rise in reopening odds -> -0.06% (t -0.1), correlation of changes -0.01, 156 obs
+  weekly CMBT: a 10-point rise in reopening odds -> -0.87% (t -0.6), correlation of changes -0.12, 31 obs
+  weekly DHT : a 10-point rise in reopening odds -> -0.85% (t -0.6), correlation of changes -0.11, 31 obs
+  weekly FRO : a 10-point rise in reopening odds -> -1.77% (t -1.2), correlation of changes -0.21, 31 obs
+  weekly SBLK: a 10-point rise in reopening odds -> -1.14% (t -1.0), correlation of changes -0.19, 31 obs
+  levels (the old test), CMBT daily: correlation -0.77
+
+the ten biggest one-day moves in the odds, and same-day returns:
+  2026-03-30 B270101 odds -13 pts: CMBT -1.6%, DHT -0.9%, FRO -0.8%, SBLK -1.1%
+  2026-04-08 B270101 odds +12 pts: CMBT +3.4%, DHT +4.3%, FRO +3.3%, SBLK +3.8%
+  2026-04-09 B270101 odds -12 pts: CMBT -2.1%, DHT -3.0%, FRO -3.7%, SBLK -1.8%
+  2026-06-15 B270101 odds +14 pts: CMBT -0.5%, DHT +5.2%, FRO +0.9%, SBLK -0.3%
+  2026-07-07 B270101 odds -9 pts: CMBT +0.1%, DHT +0.8%, FRO +2.1%, SBLK +0.3%
+  2026-07-14 B270101 odds -12 pts: CMBT +2.2%, DHT +5.0%, FRO +4.0%, SBLK +0.1%
+  2026-07-27 B270101 odds +13 pts: CMBT -2.3%, DHT -0.9%, FRO -1.8%, SBLK -3.7%
+  2026-08-10 B270701 odds -13 pts: CMBT -1.2%, DHT -2.3%, FRO -3.2%, SBLK -1.7%
+  2026-08-26 B270101 odds +10 pts: CMBT -2.9%, DHT -4.4%, FRO -5.2%, SBLK -4.9%
+  2026-08-27 B270701 odds +10 pts: CMBT +3.6%, DHT +5.6%, FRO +6.2%, SBLK +2.8%
+  CMBT moved the way a war-priced stock should (down when reopening odds rose) on 5 of 10 days
+
+full reopening priced off the daily slope (B270701 at 20% -> 100%): CMBT +2.4% ($+0.42 a share), two-standard-error band -7.7% to +13.5%
+same for DHT: +0.5%
+levels, weekly, CMBT: correlation -0.83 (37 weeks)
+levels, weekly, DHT: correlation -0.84 (37 weeks)
+levels, weekly, FRO: correlation -0.88 (37 weeks)
+levels, weekly, SBLK: correlation -0.69 (37 weeks)

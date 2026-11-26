@@ -1,0 +1,5 @@
+FY2027 EPS: Excel 2.4993, Python 2.4993, match
+FY2028 EPS: Excel 1.0356, Python 1.0356, match
+12-month distributions: Excel 2.3482, Python 2.3482, match
+Excel probability-weighted value at 0.62x $18.21, rounded $18.00
+weighted value: Excel 18.2103, Python 18.2103, match
