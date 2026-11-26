@@ -1,0 +1,42 @@
+{
+ "base": {
+  "segments": {
+   "VLCC": 115.48590536,
+   "Suezmax": 159.08661864,
+   "Newcastlemax": 62.67662718518519,
+   "Capesize": 63.88231248148147,
+   "Kamsarmax/Panamax": 15.999576888888893
+  },
+  "other": {
+   "Container": 3.064704,
+   "Chemicals": 0.026312,
+   "CSOV": -5.35992,
+   "CTV": 7.86048
+  },
+  "group_costs": -7.247807999999999,
+  "profit_ex_gains": 415.4748085555555,
+  "profit": 606.2748085555555,
+  "eps": 2.0893796436649317,
+  "eps_ex": 1.4318335434714273
+ },
+ "unbooked at QTD": {
+  "segments": {
+   "VLCC": 170.397248,
+   "Suezmax": 199.470762,
+   "Newcastlemax": 66.54802637037038,
+   "Capesize": 68.11833833333333,
+   "Kamsarmax/Panamax": 16.15705022222222
+  },
+  "other": {
+   "Container": 3.064704,
+   "Chemicals": 0.026312,
+   "CSOV": -5.35992,
+   "CTV": 7.86048
+  },
+  "group_costs": -7.247807999999999,
+  "profit_ex_gains": 519.035192925926,
+  "profit": 709.835192925926,
+  "eps": 2.4462754868372456,
+  "eps_ex": 1.7887293866437413
+ }
+}
