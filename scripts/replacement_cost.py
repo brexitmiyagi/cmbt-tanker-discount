@@ -26,3 +26,8 @@ for r in (0.07, 0.09):
 for y, c in (('2016', 46.0), ('2023', 61.0), ('2025 average', 70.9)):
     print(f'  Capesize newbuild at ${c}m ({y}) needs ${needed(c, "Capesize"):,.0f} a day')
 json.dump(out, open(os.path.join(HERE, '..', 'results', 'replacement_cost.json'), 'w'), indent=1)
+
+# the same test on a dated broker report (Intermodal Week 47 2026, table 20 Nov 2026) instead of single contracts
+for seg in ('VLCC', 'Suezmax', 'Capesize'):
+    c = nb[f'{seg} broker']
+    print(f'{seg:8s} broker newbuild ${c:.1f}m (20 Nov 2026) needs ${needed(c, seg):,.0f} a day over 25 years at 8%')
