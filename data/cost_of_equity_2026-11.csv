@@ -1,0 +1,8 @@
+item,value,date,source
+riskfree_10y,4.94,2026-11-01,"Damodaran home page: 'US treasury rate of 4.94% used as the riskfree rate', https://pages.stern.nyu.edu/~adamodar/New_Home_Page/home.htm"
+implied_erp_sp500,4.41,2026-11-01,"Damodaran: 'Implied ERP on November 1, 2026 = 4.41% (Trailing 12 month, with adjusted payout)'; range of his variants 3.39%-5.81%"
+industry_beta_shipbuilding_marine,0.75,2026-01,"Damodaran Cost of Equity and Capital (US), Shipbuilding & Marine, 8 firms, https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/wacc.html"
+industry_coe_shipbuilding_marine,7.31,2026-01,same (January 2026 inputs)
+cmbt_beta_low,0.52,2026-11,beta_check.py (18 months daily vs S&P 500)
+cmbt_beta_high,0.96,2026-11,beta_check.py (war period weekly)
+published_coe,8.16,2026-11,4.91% 10-year + 0.65 beta x 5% (beta_check.py)

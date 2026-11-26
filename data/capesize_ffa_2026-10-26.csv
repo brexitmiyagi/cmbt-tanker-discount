@@ -1,0 +1,7 @@
+period,usd_day,source
+Cal 2027,31400,"Nortilus, 'Dry Bulk: Sector Overview', 26 Oct 2026 (FFA mid-prices 26 Oct 2026 10:31 CET), https://nortilus.substack.com/p/dry-bulk-sector-overview"
+Cal 2028,27100,same
+Cal 2029,24500,same
+Capesize 1yr TC 20 Nov 2026,38000,Intermodal Week 47 2026 (for comparison)
+Capesize 3yr TC 20 Nov 2026,27250,same
+note,,"secondhand quote of the Baltic Capesize 5TC forward curve, a month old; I couldn't find a free primary FFA print. Spot C5TC was USD 37,433/day in mid-November per CMB.TECH's Q3 release"

@@ -1,0 +1,11 @@
+item,value,source
+capesize_tc_rate_q3_2026,28879,"CMB.TECH Q3 2026 release 24 Nov 2026, TCE table ('Capesize average time charter rate')"
+kamsarmax_tc_rate_q3_2026,17557,same ('Panamax/Kamsarmax average time charter rate')
+newcastlemax_tc_row,none,same (no Newcastlemax time charter row; Newcastlemax only reported on the spot/index line)
+capesize_q4_fixed_pct,0.78,same (Q4 2026 to date only; nothing disclosed for 2027)
+newcastlemax_q4_fixed_pct,0.81,same
+contract_backlog_usd_bn,3.1,same (headline 'contract backlog stable at USD 3.1 billion')
+q4_2026_sale_gains_usd_m,190.8,"same: VLCC Donoussa 74.3, Suezmax Bristol 56.9, Suezmax Stella 59.6"
+bocimar_fleet,"41 (+5NB) Newcastlemax, 37 Capesize, 30 Kamsarmax/Panamax",same
+c5tc_mid_nov_2026,37433,same
+url,https://finviz.com/news/426557/press-release-cmbtech-announces-q3-2026-results,

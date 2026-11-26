@@ -1,0 +1,12 @@
+year,usd_day,basis,source
+2015,6997,Baltic Exchange Capesize average earnings,"Golden Ocean Q4 2015 release (6-K, 18 Feb 2016): 'Average earnings for 2015 were $6,997 per day for a Capesize', https://sec.gov/Archives/edgar/data/1029145/000091957416011270/d7050675_6-k.htm"
+2016,7388,Baltic CS5TC annual,"Golden Ocean Q4 2017 6-K table 'Capesize (CS5TC)', https://www.sec.gov/Archives/edgar/data/0001029145/000091957418001948/d7827242_6-k.htm"
+2017,15128,Baltic CS5TC annual,same
+2018,,not found,"Baltic full-year 2018 not located; quarters found: Q3 22,206, Q4 15,856 (Golden Ocean Q4 2018 release)"
+2019,19548,Golden Ocean realised Capesize TCE (company; Baltic average not located),"Golden Ocean Q4 2020 release, 'TCE per day Capesize vessels', https://www.sec.gov/Archives/edgar/data/1029145/000091957421001797/d8807476_ex99-1.htm"
+2020,15216,Golden Ocean realised Capesize TCE (company; Baltic average not located),same
+2021,33333,Baltic Exchange Capesize average earnings,"Golden Ocean 2022 Form 20-F Item 5: '$16,177 per day for 2022 compared with $33,333 per day for 2021', https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2023/03/16/585510_Golden%20Ocean%202022%20Form%2020-F.pdf"
+2022,16177,Baltic Exchange Capesize average earnings,same
+2023,16389,Baltic Exchange Capesize average earnings,"Golden Ocean 2024 Form 20-F: '$22,593 per day for 2024 compared with $16,389 per day for 2023', https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/03/20/641885_GOGL%20-%202024%2020F.xhtml"
+2024,22593,Baltic Exchange Capesize average earnings,same
+2025,21297,Baltic 5TC annual average,clarksons_2025.csv (Kpler and Breakwave)

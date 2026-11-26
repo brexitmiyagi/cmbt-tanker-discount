@@ -1,0 +1,8 @@
+division,spot,time_charter,source
+Dry bulk (Bocimar),100 (+2NB),8 (+3NB),"CMB.TECH Q3 2026 presentation slide 11, commercial exposure"
+Tankers (Euronav),8 (+1NB),12,same
+Container (Delphis),0,4 (+1NB),same
+Chemical (Bochem),2,6 (+8NB),same
+Offshore (Windcat),"CTV 4 (+2NB); CSOV 1 (+3NB)","CTV 58; CSOV 3 (+1NB)",same
+fy2027_fcf_total_usd_m,722,,"slide 9: estimated FY2027 FCF at the company deck, excluding CTVs and vessel sales; Other (chemical, container, CSOV) 6.1%, tanker 40.5%, dry bulk 53.5%"
+outstanding_capex_usd_bn,0.84,,"slide 10: as per 31/10/2026; committed and assumed financing 0.71bn; unfunded 130m (2026 6m, 2027 79m, 2028 18m, 2029 26m)"

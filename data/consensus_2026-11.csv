@@ -1,0 +1,7 @@
+item,value,date,source
+consensus_eps_2026,4.38,2026-11-25,Seeking Alpha estimates page (3 analysts; range 3.57-5.83)
+consensus_eps_2027,2.16,2026-11-25,Seeking Alpha (4 analysts; range 1.67-2.97)
+consensus_eps_2028,1.91,2026-11-25,Seeking Alpha (3 analysts; range 1.09-2.44)
+target_avg_sp_global,20.45,2026-08-28,"stockanalysis.com/stocks/cmbt/forecast (4 analysts polled by S&P Global; low 16.10, high 23.20; last updated 28 Aug 2026, so stale)"
+target_berenberg,19.00,2026-08-28,stockanalysis.com (Buy)
+target_kepler,19.00,2026-05-20,stockanalysis.com (Buy)

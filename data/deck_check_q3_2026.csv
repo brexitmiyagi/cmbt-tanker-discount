@@ -1,0 +1,19 @@
+item,value,status,source
+vlcc_orderbook_pct,33.1,confirmed,"CMB.TECH Q3 2026 presentation (24 Nov 2026), market update and VLCC/Suezmax OB/F slides; Clarksons SIN, AXS Marine"
+suezmax_orderbook_pct,29.3,confirmed,same
+capesize_orderbook_pct,19.1,confirmed,same
+vlcc_fleet_growth_2027,7.1,confirmed,"same, slide 26; gross or net of scrapping not stated"
+vlcc_fleet_growth_2028,16.1,confirmed,same
+vlcc_fleet_growth_2029,12.3,confirmed,same
+suezmax_fleet_growth_2027,8.7,confirmed,same
+suezmax_fleet_growth_2028,11.9,confirmed,same
+suezmax_fleet_growth_2029,8.5,confirmed,same
+q1_2028_split_61_suez_28_vlcc,,not confirmed,"slide 27 text has 89 but not the split; dropped from the article"
+vlcc_over_20_pct,19,confirmed,"market update slide"
+capesize_over_15_pct,44,confirmed,same
+iron_ore_tonne_mile_2026_pct,2.8,confirmed,same
+iron_ore_tonne_mile_2027_pct,4.3,confirmed,same
+capesize_fleet_growth_2026_pct,2.5,confirmed,same
+capesize_fleet_growth_2027_pct,5.7,confirmed,same
+simandou_export_capacity_end_2027_mt,120,confirmed,"slide 19: rail and port operator aims to support 120 MMT a year by end-2027; Rio Tinto expects full SimFer production in 2028"
+capesize_capacity_addition_27_28_pct,11.3,confirmed,slide 19

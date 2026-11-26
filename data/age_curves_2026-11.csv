@@ -1,0 +1,9 @@
+segment,source,five_year_usd_m,ten_year_usd_m,note
+VLCC,Compass 16 Nov 2026,215,185,secondhand_values_2026-11-16.csv
+Suezmax,Compass 16 Nov 2026,139,121,same
+Capesize,Compass 16 Nov 2026,78,62,same
+Kamsarmax,Compass 16 Nov 2026,42,34,same
+VLCC,KOBC 1 Oct 2026,178.09,152.23,secondhand_values_kobc_2026-10-01.csv (via ShipUniverse)
+Suezmax,KOBC 1 Oct 2026,109.57,96.61,same
+Capesize,KOBC 1 Oct 2026,72.42,55.67,same
+Kamsarmax,KOBC 1 Oct 2026,38.82,29.82,same
