@@ -1,0 +1,6 @@
+segment,ships_on_water,newbuilds,employment,pnl_breakeven,opex,q3_2026_tce,q4_2026_tce_to_date,note,source
+Container,4,1,"10-year TC to CMA CGM; 1,400 TEU NB (Dec 2026) on 15-year TC",21353,6760,29681,,no spot exposure,"CMB.TECH Q3 2026 presentation slide 30, https://cmb.tech/public/CMBT_Q3-2026-earnings-release-1.pdf"
+Chemical pool,2,,Stolt pool,19972,7663,21601,18756,,"same, slide 32"
+Chemical TC,6,8,"8 x 10-year TC and 6 x 7-year TC across fleet and NBs",19972,7663,20425,,NBs: 2 product tankers 2026; 4 chemical 2028; 2 chemical 2029,"same, slide 32"
+CSOV,4,4,"CSOV TC 3 (+1NB), spot 1 (+3NB); NBs 2 CSOV + 2 MP-SAV",31543,15107,48372,16978,"breakeven at 85% utilisation; Q4 26.0% utilisation, 3 vessels relocating for projects starting Jan 2027","same, slide 34"
+CTV,60,3,"CTV TC 58, spot 4 (+2NB); contracts 3 months to 5 years",1949,1553,3786,3373,Q4 at 88% utilisation,"same, slide 34"

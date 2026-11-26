@@ -1,0 +1,1 @@
+# source: SEC XBRL companyfacts (data.sec.gov), pulled 26 Nov 2026; NetIncomeLoss / ProfitLoss and StockholdersEquity (us-gaap, ifrs-full for DHT), calendar years; CIKs SBLK 1386716, GNK 1326200, DHT 1331284, INSW 1679049

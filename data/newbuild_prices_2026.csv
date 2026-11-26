@@ -5,3 +5,6 @@ Capesize,70.9,2025,"CNDPI average Capesize newbuilding price for 2025, Breakwave
 Capesize resale,82.95,2026-10,"VesselsValue valuation of Hengli resale Arriktos (delivery Oct 2027), IndexBox 15 Oct 2026"
 Suezmax,90.0,2026,"DH Shipbuilding Suezmax order at $90m each, Lloyd's List (article text undated, 2026 orders)"
 VLCC,132.0,2026-11,CMB.TECH Q3 2026 / newbuild_share.py
+VLCC broker,132.0,2026-11-20,"Intermodal Weekly Report Week 47 2026 (table 20 Nov 2026); Allied Week 46 (13 Nov) 130.0"
+Suezmax broker,91.0,2026-11-20,"Intermodal Weekly Report Week 47 2026; Allied Week 46 89.0"
+Capesize broker,76.5,2026-11-20,"Intermodal Weekly Report Week 47 2026; Allied Week 46 75.0"

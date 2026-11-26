@@ -1,0 +1,15 @@
+owner,segment,ships,basis,source
+CMBT,VLCC,0.5,value share of tankers,"tankers split half VLCC, half Suezmax by value (CMB.TECH fleet list; same split as earnings_implied_value.py)"
+CMBT,Suezmax,0.5,value share of tankers,same
+CMBT,Capesize,82,ships,"FY2025 20-F fleet list (fleet_dry_bulk_20F.csv): 45 Newcastlemax + 37 Capesize, at Capesize values"
+CMBT,Kamsarmax,30,ships,"same: 26 Kamsarmax + 4 Panamax"
+SBLK,Capesize,32,ships,"Star Bulk Q3 2026 slides via Investing.com 19 Nov 2026 (Newcastlemax/Capesize = 40% of fleet market value)"
+SBLK,Kamsarmax,46,ships,same
+SBLK,Ultramax,58,ships,same (Ultramax/Supramax)
+GNK,Capesize,20,ships,"Genco Q3 2026 release 4 Nov 2026 (2 Newcastlemax + 18 Capesize)"
+GNK,Ultramax,24,ships,same (15 Ultramax + 9 Supramax)
+DHT,VLCC,1,all,"DHT is a VLCC owner (fleet count not verified this session)"
+INSW,VLCC,7,ships,"International Seaways Q2 2026 release, owned fleet at 1 Aug 2026"
+INSW,Suezmax,13,ships,same
+INSW,Aframax,13,ships,"same: 4 Aframax + 1 LR2 + 8 LR1 counted at Aframax values"
+INSW,MR,24,ships,same

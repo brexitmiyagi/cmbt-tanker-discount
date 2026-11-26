@@ -1,0 +1,1 @@
+# SEC XBRL companyfacts pulled 26 Nov 2026; calendar-year facts only. GNK impairments after 2019 aren't tagged in companyfacts, so its adjusted figure misses them (2020 in particular).

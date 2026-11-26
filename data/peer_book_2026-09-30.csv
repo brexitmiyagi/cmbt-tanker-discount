@@ -1,0 +1,6 @@
+ticker,equity_usd_m,shares_m,date,source
+CMBT,3495.006,290.169769,2026-09-30,CMB.TECH Q3 2026 release balance sheet (equity attributable to owners)
+SBLK,2678.333,116.071386,2026-09-30,"Star Bulk Q3 2026 release 18 Nov 2026 (shares as of the release date), https://www.starbulk.com/media/uploads_file/2026/11/18/p1k7o8i3im1eoatei1ust1kf21r5g4.pdf"
+GNK,893.1,44.6,2026-09-30,SEC XBRL companyfacts CIK 1326200 StockholdersEquity (10-Q); shares from peers_nav.csv
+DHT,1404.552,161.235573,2026-09-30,"DHT Q3 2026 6-K ex99.1, 9 Nov 2026, https://www.sec.gov/Archives/edgar/data/0001331284/000114036126042813/ef20080524_ex99-1.htm"
+INSW,2365.6,49.905554,2026-09-30,SEC XBRL companyfacts CIK 1679049 StockholdersEquity (10-Q); shares from peers_nav.csv

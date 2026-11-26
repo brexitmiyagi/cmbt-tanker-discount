@@ -1,0 +1,41 @@
+ticker,year,sale_gain_usd_m,impairment_usd_m,tags
+SBLK,2016,-15.2,29.2,GainLossOnSaleOfPropertyPlantEquipment; AssetImpairmentCharges
+SBLK,2017,2.6,0.0,same
+SBLK,2018,0.0,17.8,same
+SBLK,2019,-5.5,3.4,same
+SBLK,2020,0.0,0.0,same
+SBLK,2021,0.0,0.0,same
+SBLK,2022,0.0,0.0,same
+SBLK,2023,29.4,17.8,"same; impairment is ImpairmentOfLongLivedAssetsToBeDisposedOf (AssetImpairmentCharges 0.0)"
+SBLK,2024,43.3,1.8,same
+SBLK,2025,-18.3,0.0,same
+GNK,2016,3.6,69.3,GainLossOnDispositionOfAssets; AssetImpairmentCharges
+GNK,2017,7.7,22.0,same
+GNK,2018,3.5,56.6,same
+GNK,2019,-0.2,27.4,same
+GNK,2020,-1.9,,impairment not tagged for 2020 in companyfacts
+GNK,2021,4.9,,not tagged
+GNK,2022,0.0,,not tagged
+GNK,2023,0.0,,not tagged
+GNK,2024,16.5,,not tagged
+GNK,2025,0.0,,not tagged
+DHT,2016,0.0,84.7,AdjustmentsForImpairmentLoss... (ifrs-full); no disposal gains tagged before 2021
+DHT,2017,0.0,8.5,same
+DHT,2018,0.0,3.5,same
+DHT,2019,0.0,0.0,same
+DHT,2020,0.0,12.6,same
+DHT,2021,0.0,0.0,GainsLossesOnDisposalsOfPropertyPlantAndEquipment 0.0
+DHT,2022,0.0,0.0,same
+DHT,2023,0.0,0.0,same
+DHT,2024,0.0,-27.9,reversal of impairment
+DHT,2025,0.0,0.0,same
+INSW,2016,0.0,79.2,GainLossOnDispositionOfAssets; ImpairmentOfLongLivedAssetsHeldForUse
+INSW,2017,1.6,88.4,same
+INSW,2018,-0.6,19.0,same
+INSW,2019,-0.3,0.0,same
+INSW,2020,2.9,103.0,same
+INSW,2021,13.2,3.5,same
+INSW,2022,21.3,1.7,same
+INSW,2023,35.9,0.0,same
+INSW,2024,41.4,8.7,same
+INSW,2025,42.5,0.0,same
