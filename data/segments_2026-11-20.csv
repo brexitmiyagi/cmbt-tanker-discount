@@ -1,0 +1,8 @@
+segment,five_year_usd_m,newbuild_usd_m,tc_1y,tc_3y,source
+VLCC,220.0,132.0,250000,107500,Intermodal Week 47 2026 (data 20 Nov 2026)
+Suezmax,150.0,91.0,135000,77000,same
+Aframax,95.0,79.5,80000,50000,same (110k 5yr; 115k newbuild)
+MR,56.0,52.5,39500,27250,same
+Capesize,78.3,76.5,38000,27250,same
+Kamsarmax,42.0,38.5,17000,14500,same (TC is the 76k Panamax row)
+Ultramax,39.0,36.0,18500,15000,same (TC is the 58k Supramax row)
