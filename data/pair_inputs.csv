@@ -1,0 +1,14 @@
+item,value,source
+beta_cmbt_on_dht_daily_1y,0.6405,Nasdaq daily closes 25 Nov 2025 to 24 Nov 2026 (250 daily log returns)
+corr_cmbt_dht_daily_1y,0.6455,same
+vol_cmbt_annual,0.4093,same
+vol_dht_annual,0.4125,same
+vol_pair_hedged_annual,0.3126,same (short 1 CMBT / long 0.64 DHT)
+beta_cmbt_spy_daily_1y,0.6497,same; SPY
+dht_div_q4_2025,0.41,DHT Q4 2025 6-K (paid 26 Feb 2026)
+dht_div_q1_2026,0.64,DHT Q1 2026 6-K (paid 28 May 2026)
+dht_div_q2_2026,1.22,DHT Q2 2026 6-K (paid 24 Aug 2026)
+dht_div_q3_2026,1.45,DHT Q3 2026 6-K (record 23 Nov 2026; paid 30 Nov 2026)
+dht_close_2026_11_24,21.32,Nasdaq
+cmbt_close_2026_11_24,17.54,Nasdaq
+ratio_2025_11_25,0.840,Nasdaq month-end/start closes CMBT 10.94 / DHT 13.03 on 28 Nov 2025

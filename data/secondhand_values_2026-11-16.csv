@@ -1,0 +1,16 @@
+type,age,value_usd_m,source
+VLCC,0,245,Compass Maritime weekly report 16 Nov 2026 (resale); Clarksons via Energy News Beat 18 Nov 2026 also $245m prompt resale
+VLCC,5,215,Compass 16 Nov 2026 (Clarksons via ENB: $220m)
+VLCC,10,185,Compass 16 Nov 2026 (Clarksons via ENB: $195m)
+VLCC,15,165,Clarksons via Energy News Beat 18 Nov 2026; CMB.TECH Q3 presentation slide 7 also $165m
+Suezmax,0,170,Compass 16 Nov 2026 (resale)
+Suezmax,5,139,Compass 16 Nov 2026
+Suezmax,10,121,Compass 16 Nov 2026
+Suezmax,15,105,CMB.TECH Q3 presentation slide 7 (Clarksons; 30 Sep 2026)
+Capesize,0,87,Compass 16 Nov 2026 (resale)
+Capesize,5,78,Compass 16 Nov 2026
+Capesize,10,62,Compass 16 Nov 2026
+Capesize,15,41,CMB.TECH Q3 presentation slide 7 (Clarksons; 30 Sep 2026)
+Kamsarmax,0,47,Compass 16 Nov 2026 (resale)
+Kamsarmax,5,42,Compass 16 Nov 2026
+Kamsarmax,10,34,Compass 16 Nov 2026

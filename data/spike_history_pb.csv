@@ -1,0 +1,13 @@
+company,date,price_usd,book_equity_usd_m,shares_m,source
+INSW,2019-12-31,29.76,1022.293,29.274452,price: monthly close (Yahoo Finance chart data); book and shares: SEC XBRL us-gaap StockholdersEquity / CommonStockSharesOutstanding
+INSW,2020-03-31,23.89,1029.680,28.823465,same
+INSW,2020-06-30,16.34,1072.053,27.974378,same
+INSW,2020-09-30,14.61,1086.518,27.984807,same
+INSW,2020-12-31,16.33,972.042,28.014877,same
+INSW,2021-06-30,19.18,947.454,28.128298,same
+Euronav,2019-12-31,12.54,2311.855,215.078497,price: monthly close of EURN (now CMBT); book: SEC XBRL ifrs-full EquityAttributableToOwnersOfParent; shares: ifrs-full NumberOfSharesOutstanding (annual filer)
+Euronav,2020-12-31,8.00,2311.786,201.677981,same
+Euronav,2021-12-31,8.89,1960.582,201.677981,same
+DHT,2019-12-31,8.28,932.444,146.819401,price: monthly close; book: SEC XBRL ifrs-full EquityAttributableToOwnersOfParent; shares: dei EntityCommonStockSharesOutstanding (annual filer)
+DHT,2020-12-31,5.23,1108.921,170.798328,same
+DHT,2021-12-31,5.19,1047.326,166.126770,same

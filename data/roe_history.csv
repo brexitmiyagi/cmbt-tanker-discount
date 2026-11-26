@@ -1,0 +1,42 @@
+company,year,net_income_usd_m,equity_end_usd_m,impairment_usd_m,disposal_gain_usd_m,source
+Euronav,2014,,1473,,,SEC XBRL company facts (ifrs-full ProfitLoss / Equity / ImpairmentLoss / GainsLossesOnDisposalsOfPropertyPlantAndEquipment)
+Euronav,2015,350.3,1906,0,13.3,same
+Euronav,2016,204.0,1888,0,50.4,same
+Euronav,2017,1.4,1846,0,36.5,same
+Euronav,2018,-110.1,2261,3.0,19.1,same
+Euronav,2019,112.2,2312,0,14.9,same
+Euronav,2020,473.2,2312,0,22.7,same
+Euronav,2021,-338.8,1961,,15.1,same (2021 impairment not tagged)
+Euronav,2022,203.3,2173,0,96.2,same
+Euronav,2023,858.0,2357,0,372.4,same
+Euronav,2024,870.8,1192,1.8,635.0,same
+Star Bulk,2009,,499,,,SEC XBRL company facts (us-gaap NetIncomeLoss / StockholdersEquity / AssetImpairmentCharges / GainLossOnSaleOfPropertyPlantEquipment)
+Star Bulk,2010,-5,488,34.9,0,same
+Star Bulk,2011,-70,434,62.0,0,same
+Star Bulk,2012,-315,117,303.2,-3.2,same
+Star Bulk,2013,2,266,0,-0.1,same
+Star Bulk,2014,-12,1154,0,0,same
+Star Bulk,2015,-458,1135,322.0,-20.6,same
+Star Bulk,2016,-154,1037,29.2,-15.2,same
+Star Bulk,2017,-10,1088,0,2.6,same
+Star Bulk,2018,58,1520,17.8,0,same
+Star Bulk,2019,-16,1544,3.4,-5.5,same
+Star Bulk,2020,10,1550,0,0,same
+Star Bulk,2021,681,2080,0,0,same
+Star Bulk,2022,566,2019,0,0,same
+Star Bulk,2023,174,1660,0,29.4,same
+Star Bulk,2024,305,2482,0,43.3,same
+Star Bulk,2025,84,2449,0,-18.3,same
+Golden Ocean,2012,,278,,,SEC XBRL company facts (us-gaap ProfitLoss / NetIncomeLoss / StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest / AssetImpairmentCharges / GainLossOnSaleOfPropertyPlantEquipment); the filer was Knightsbridge Tankers before the 2015 merger
+Golden Ocean,2013,-3.9,307,-5.3,0.3,same
+Golden Ocean,2014,16.0,884,0,0,same
+Golden Ocean,2015,-220.8,1159,152.6,-10.8,same
+Golden Ocean,2016,-127.7,1239,1.0,0.3,same
+Golden Ocean,2017,-2.3,1494,1.1,-0.3,same
+Golden Ocean,2018,84.5,1524,1.1,0.3,same
+Golden Ocean,2019,37.2,1513,,0,same (impairments after 2018 not tagged)
+Golden Ocean,2020,-137.7,1369,,0,same (2020 impairment not tagged)
+Golden Ocean,2021,527.2,1929,,9.8,same
+Golden Ocean,2022,461.8,1917,,34.2,same
+Golden Ocean,2023,112.3,1922,,9.2,same
+Golden Ocean,2024,223.2,1900,,21.4,same

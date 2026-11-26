@@ -1,0 +1,6 @@
+item,value,source
+vlsfo_singapore_usd_t,806,"ENGINE East of Suez market update, 18 Nov 2026 ('The port's VLSFO price has fallen by $22/mt to $806/mt')"
+ammonia_nw_europe_cfr_usd_t,700,"CRU / BCInsight price trends, 16 Sep 2026 (NW Europe 'holding above the $700/t CFR mark'); latest free ammonia print I could find"
+green_ammonia_delivered_usd_t_low,820,"S&P Global, 11 Dec 2025 (green ammonia delivered cost assessments $820-930/mt for November 2025; a year old)"
+green_ammonia_delivered_usd_t_high,930,same
+newcastlemax_csr_kw,12896,"CMB.TECH Newcastlemax page (CSR 12,896 kW at 64.1 rpm; 210,000 dwt; 14 knots)"

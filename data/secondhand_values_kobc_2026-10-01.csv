@@ -1,0 +1,16 @@
+type,age,value_usd_m,source
+VLCC,0,199.26,KOBC 1 Oct 2026 via ShipUniverse 8 Oct 2026 (resale/recent sale; 320k dwt)
+VLCC,5,178.09,KOBC 1 Oct 2026 via ShipUniverse
+VLCC,10,152.23,KOBC 1 Oct 2026 via ShipUniverse
+VLCC,15,165,CMB.TECH Q3 presentation slide 7 (Clarksons; no KOBC 15-year point)
+Suezmax,0,133.20,KOBC 1 Oct 2026 via ShipUniverse
+Suezmax,5,109.57,KOBC 1 Oct 2026 via ShipUniverse
+Suezmax,10,96.61,KOBC 1 Oct 2026 via ShipUniverse
+Suezmax,15,105,CMB.TECH Q3 presentation slide 7 (no KOBC 15-year point)
+Capesize,0,82.56,KOBC 1 Oct 2026 via ShipUniverse
+Capesize,5,72.42,KOBC 1 Oct 2026 via ShipUniverse
+Capesize,10,55.67,KOBC 1 Oct 2026 via ShipUniverse
+Capesize,15,41,CMB.TECH Q3 presentation slide 7
+Kamsarmax,0,44.19,KOBC 1 Oct 2026 via ShipUniverse
+Kamsarmax,5,38.82,KOBC 1 Oct 2026 via ShipUniverse
+Kamsarmax,10,29.82,KOBC 1 Oct 2026 via ShipUniverse

@@ -1,0 +1,10 @@
+item,value,source
+vlcc_fleet_ships,870,"Clarksons Research via Offshore Industry 11 Jun 2026 (roughly 870 vessels, early 2026)"
+vlcc_20plus_low,110,"same (approximately 110-125 above 20 years old)"
+vlcc_20plus_high,125,same
+vlcc_20plus_share_ti,0.20,"Tankers International 7 Jan 2026 (nearly 20% of the fleet 20 years or older)"
+vlcc_20plus_share_2029_ti,0.21,"Tankers International via Hellenic Shipping News 25 Apr 2025 (number over 20 doubles in four years, 21% of the trading fleet)"
+vlcc_sanctioned,100,"Tankers International 7 Jan 2026 (about 100 officially sanctioned)"
+vlcc_sanctioned_barrels,100,"same (roughly 100 more carried sanctioned barrels); together about 23% of the fleet out of normal trading"
+vlcc_scrapped_2022_may2026,7,"Drewry via Xinde Marine News 11 Aug 2026 (52 crude tankers demolished 2022 to May 2026, seven VLCCs)"
+ti_effective_growth_3y,0.01,"Tankers International via Hellenic Shipping News 25 Apr 2025 (effective supply +1% over three years vs 8% nominal), before the 2026 order wave"

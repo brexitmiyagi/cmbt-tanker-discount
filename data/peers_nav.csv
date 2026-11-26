@@ -1,0 +1,5 @@
+ticker,segment,close_2026_11_24,shares_m,net_debt_usd_m,fleet_value_usd_m,fleet_value_basis,source
+SBLK,dry bulk,26.96,116.46,275,4400,stated: $4.4bn average broker valuations 30 Sep 2026,Star Bulk Q3 2026 presentation; net debt 18 Nov 2026 (Q3 results)
+GNK,dry bulk,23.02,44.6,285.4,1585.6,derived: net debt / net loan-to-value 18% (broker valuations 15 Oct 2026); LTV is rounded so +/-3%,Genco Q3 2026 release (cash $94.6m; debt principal $380m per Finsee; diluted shares 44.6m)
+DHT,tanker,21.32,161.235573,344.0,3276.2,derived: net debt / financial leverage 10.5% on market values (Q3 2026 call); assumes leverage is net debt over fleet value,DHT Q3 2026 6-K exhibit 99.1 (net debt $344.0m; 161235573 shares 30 Sep 2026)
+INSW,tanker,101.34,49.905554,250,4900,stated on Q3 2026 call: vessels 'currently valued at nearly $5 billion'; net debt 'approximately $250 million'; I use $4.9bn; Bruton deal (~3m shares) excluded both sides,INSW Q3 2026 release and call (diluted weighted shares)

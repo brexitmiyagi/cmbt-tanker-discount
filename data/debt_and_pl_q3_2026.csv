@@ -1,0 +1,22 @@
+item,value,source
+depreciation_q3_2026_usd_m,113.133,Q3 2026 release income statement
+net_finance_expenses_q3_2026_usd_m,74.039,Q3 2026 release income statement
+net_finance_expenses_q3_2025_usd_m,111.193,Q3 2026 release income statement
+gna_q3_2026_usd_m,29.298,Q3 2026 release income statement
+gross_debt_incl_leases_q3_2026_usd_m,4938.5,Q3 2026 release balance sheet
+held_for_sale_q3_2026_usd_m,160.48,Q3 2026 release balance sheet
+sofr_plus_1pct_interest_2025_usd_m,44.6,FY2025 20-F market risk
+bank_loans_carrying_2025_usd_m,3394.047,FY2025 20-F liquidity table
+bank_loans_flows_lt1y,759.149,FY2025 20-F (contractual cash flows incl. interest)
+bank_loans_flows_1to5y,2845.993,FY2025 20-F
+bank_loans_flows_gt5y,783.636,FY2025 20-F
+other_borrowings_carrying_2025_usd_m,2150.693,FY2025 20-F
+other_borrowings_flows_lt1y,395.002,FY2025 20-F
+other_borrowings_flows_1to5y,949.471,FY2025 20-F
+other_borrowings_flows_gt5y,1777.028,FY2025 20-F
+consensus_eps_2026,4.38,Seeking Alpha 25 Nov 2026 (normalized; 3 analysts; range 3.57-5.83)
+consensus_eps_2027,2.16,Seeking Alpha 25 Nov 2026 (4 analysts; range 1.67-2.97)
+consensus_eps_2028,1.91,Seeking Alpha 25 Nov 2026 (3 analysts; range 1.09-2.44)
+consensus_rev_2027_usd_bn,2.34,Seeking Alpha 25 Nov 2026
+profit_9m_2026_usd_m,1107.1,Q3 2026 release
+gains_9m_2026_usd_m,495.146,Q3 2026 release

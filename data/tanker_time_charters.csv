@@ -1,0 +1,22 @@
+item,value,source
+suezmax_tc_rate_q1_2025,31328,Q1 2026 release TCE table (comparative column)
+suezmax_tc_rate_q2_2025,33023,Q2 2026 release TCE table (comparative column)
+suezmax_tc_rate_q3_2025,33455,Q3 2026 release TCE table (comparative column)
+suezmax_tc_rate_q1_2026,33905,Q1 2026 release TCE table
+suezmax_tc_rate_q2_2026,34726,Q2 2026 release TCE table and Q2 2026 presentation
+suezmax_tc_rate_q3_2026,32986,Q3 2026 release TCE table and Q3 2026 presentation slide 24
+suezmax_tc_days_q3_2026,717,Q3 2026 presentation slide 24
+suezmax_spot_q3_2026,148540,Q3 2026 presentation slide 24
+suezmax_spot_q4_2026_to_date,377164,Q3 2026 presentation slide 24 (68% fixed)
+suezmax_spot_q3_2025,48210,Q3 2026 release TCE table
+vlcc_tc_rate_q3_2026,85623,Q3 2026 presentation slide 24 (includes profit share where applicable)
+vlcc_tc_days_q3_2026,184,Q3 2026 presentation slide 24
+vlcc_spot_q3_2026,149945,Q3 2026 presentation slide 24
+suezmax_on_water,14,Q3 2026 presentation slide 24 and release (announced sales excluded)
+vlcc_on_water_2027,5,4 on the water plus 1 newbuild due Jan 2027 (Q3 2026 presentation slide 24)
+suezmax_base_2027,77500,Q3 2026 presentation slide 8
+vlcc_base_2027,122500,Q3 2026 presentation slide 8
+suezmax_fcf_2027_base,144,Q3 2026 presentation slide 8
+suezmax_fcf_2027_plus10,166,Q3 2026 presentation slide 8
+vlcc_fcf_2027_base,148,Q3 2026 presentation slide 8
+vlcc_fcf_2027_plus10,168,Q3 2026 presentation slide 8

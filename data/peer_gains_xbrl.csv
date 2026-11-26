@@ -1,0 +1,15 @@
+company,year,net_income_usd_m,equity_end_usd_m,impairment_usd_m,disposal_gain_usd_m,source
+INSW,2015,173.2,1383.8,,4.5,SEC XBRL company facts CIK 1679049 (us-gaap NetIncomeLoss / StockholdersEquity / ImpairmentOfLongLivedAssetsHeldForUse / GainLossOnDispositionOfAssets)
+INSW,2016,-18.2,1179.5,79.2,0.0,same
+INSW,2017,-106.1,1085.7,88.4,1.6,same
+INSW,2018,-88.9,1009.9,19.0,-0.6,same
+INSW,2019,-0.8,1022.3,0,-0.3,same
+INSW,2020,-5.5,972.0,103.0,2.9,same
+INSW,2021,-133.5,1169.7,3.5,13.2,same
+INSW,2022,387.9,1487.8,1.7,21.3,same
+INSW,2023,556.4,1716.8,0,35.9,same
+INSW,2024,416.7,1856.0,8.7,41.4,same
+INSW,2025,309.3,2020.3,0,42.5,same
+Frontline,2015,154.6,1446.3,0,,SEC XBRL company facts CIK 913290 (us-gaap NetIncomeLoss / StockholdersEquity / AssetImpairmentCharges); sale gains not tagged consistently
+Frontline,2016,117.0,1499.6,61.7,,same
+Frontline,2017,-264.9,1187.3,164.2,,same

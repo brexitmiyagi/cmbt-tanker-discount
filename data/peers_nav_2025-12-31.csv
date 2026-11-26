@@ -1,0 +1,4 @@
+ticker,segment,close_2025_12_31,shares_m,net_debt_usd_m,fleet_value_usd_m,fleet_value_basis,source
+GNK,dry bulk,18.43,43.31781,144.46,1203.8,derived: net debt / net loan-to-value 12% at 31 Dec 2025 (LTV rounded so +/-4%; footnote cites VesselsValue 13 Feb 2026),Genco Q4 2025 release (cash $55.54m) and call (debt $200m); shares 10-K cover 18 Feb 2026; close Nasdaq
+DHT,tanker,12.21,160.799407,349.7,1986.9,derived: net debt / financial leverage 17.6% on market values (Q4 2025 call),DHT Q4 2025 release (net debt $349.7m; 160799407 shares 31 Dec 2025); close Nasdaq and financialcontent
+INSW,tanker,48.55,49.427543,411.0,3200,stated: '$3.2 Billion in Market Value' net of newbuilding capex (Q4 2025 deck; net LTV ~13% cross-checks); net debt = $578m face debt less $167m cash,INSW Q4 2025 release and deck; shares 10-K cover 23 Feb 2026; close Nasdaq

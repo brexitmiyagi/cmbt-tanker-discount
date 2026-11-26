@@ -1,0 +1,11 @@
+date,ticker,segment,close,shares_m,net_debt_usd_m,fleet_value_usd_m,fleet_low,fleet_high,basis,source
+2025-12-31,GNK,dry bulk,18.43,44.178408,144.46,,,,net LTV 12% (rounded; 11.5-12.5%),Genco Q4 2025 8-K ex99.1 (debt $200.0m principal = $189.080m net + $10.920m costs; cash $55.5m; diluted wtd shares Q4)
+2025-12-31,DHT,tanker,12.21,160.799407,349.7,,,,financial leverage 17.6% on market values (Q4 2025 call),DHT Q4 2025 6-K ex99.1 (net debt $349.7m; shares 31 Dec)
+2025-12-31,INSW,tanker,48.55,49.427543,411.0,3200,3044,3288,'$3.2 Billion in Market Value' (deck); range from net LTV ~13% (12.5-13.5%),INSW Q4 2025 release and deck; net debt = $578m face debt less $167m cash
+2026-03-31,GNK,dry bulk,22.55,44.411222,275.2,,,,net LTV 20% (rounded),Genco Q1 2026 8-K ex99.1 (debt $330.0m principal; cash $54.8m)
+2026-03-31,DHT,tanker,18.27,161.041637,379.1,,,,financial leverage 16.8% on market values (Q1 2026 call per Nasdaq summary),DHT Q1 2026 6-K ex99.1 (net debt $379.1m)
+2026-06-30,GNK,dry bulk,24.78,44.572591,256.4,,,,net LTV 18% (rounded),Genco Q2 2026 8-K ex99.1 (debt $330.0m principal; cash $73.6m)
+2026-09-30,GNK,dry bulk,26.16,44.634839,285.4,,,,net LTV 18% (rounded),Genco Q3 2026 8-K ex99.1 (debt $380.0m principal; cash $94.6m)
+2026-09-30,SBLK,dry bulk,29.36,116.46,275,4400,4350,4450,'$4.4 bil' average broker valuations 30 Sep 2026 (rounded),Star Bulk Q3 2026 presentation; net debt as of 18 Nov 2026 (cash $766m; debt $1.041bn)
+2026-09-30,DHT,tanker,22.57,161.235573,344.0,,,,financial leverage 10.5% on market values (Q3 2026 call),DHT Q3 2026 6-K ex99.1 (net debt $344.0m)
+2026-09-30,INSW,tanker,110.14,49.905554,250,4900,4600,5000,'currently valued at nearly $5 billion' (Q3 call; net LTV <6% at 30 Sep implies more than ~$4.2bn),INSW Q3 2026 release and call

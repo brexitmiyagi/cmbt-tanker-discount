@@ -1,0 +1,12 @@
+year,vlcc_spot,vlcc_tc,suezmax_spot,suezmax_tc,vlcc_blended,suezmax_blended,source
+2015,55055,41981,41686,35790,52802,39689,Euronav 20-F for 2015 (TCE table: VLCC pool/fixed; Suezmax spot/fixed) and 20-F for 2016 (blended)
+2016,41863,42618,27498,26269,42243,27114,Euronav 20-F for 2016 (VLCC pool / fixed; Suezmax spot / fixed) and 20-F for 2017
+2017,27773,39629,18002,22131,29827,19144,Euronav 20-F for 2017
+2018,23005,33338,15784,30481,24073,17557,Euronav 20-F for 2018
+2019,35900,32400,26000,29400,35678,26542,Euronav Q4 2019 release (full year) and 20-F for 2019
+2020,54600,42200,39400,29600,52549,37025,Euronav Q4 2021 release (full year 2020) and 20-F for 2020
+2021,11300,46500,11100,29800,,,Euronav Q4 2021 release (full year 2021)
+2022,27600,42900,31200,30400,,,Euronav Q4 2022 release (full year 2022)
+2023,47600,48500,55700,30500,,,Euronav Q4 2023 release (full year 2023)
+2024,44600,46600,45600,31000,,,CMB.TECH Q4 2024 release (full year 2024)
+2025,46353,46115,48576,32602,,,CMB.TECH 2025 quarterly releases (simple average of the four quarters; TC averages of Q1-Q3 where given)

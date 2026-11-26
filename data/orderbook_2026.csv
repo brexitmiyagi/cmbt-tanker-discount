@@ -1,0 +1,23 @@
+item,value,source
+vlcc_orderbook_pct_fleet,33.1,CMB.TECH Q3 2026 presentation (24 Nov 2026) as reported by Investing.com
+suezmax_orderbook_pct_fleet,29.3,same
+capesize_orderbook_pct_fleet,19.1,same
+vlcc_capacity_growth_2026_pct,4.1,same
+vlcc_capacity_growth_2027_pct,7.1,same
+vlcc_capacity_growth_2028_pct,16.1,same
+vlcc_capacity_growth_2029_pct,12.3,same
+deliveries_q1_2028_vlcc_suezmax,89,same (61 Suezmaxes and 28 VLCCs; 64 vessels in Q2 2028)
+capesize_fleet_growth_pct,2.5,same
+capesize_over_15_years_pct,44,same
+vlcc_deliveries_2026,48,Signal Ocean via Breakwave Advisors 2 Mar 2026
+vlcc_deliveries_2027,69,same
+vlcc_deliveries_2028,70,same
+vlcc_deliveries_2029,24,same
+vlcc_deliveries_2030,6,same
+crude_tanker_orderbook_pct_2008_peak,50,Euronav F-1/A 20 Jan 2015 (nearly 50% of existing fleet capacity at its 2008 peak)
+crude_tanker_orderbook_pct_dec_2014,12.6,same
+vlcc_newbuild_2008_peak_usd_m,162.5,Poten & Partners via gCaptain 1 Aug 2022 (all-time peak 2008)
+vlcc_newbuild_jan_2015_usd_m,97.0,Euronav F-1/A 20 Jan 2015 (Drewry)
+vlcc_5yr_feb_2016_usd_m,76.2,Signal Ocean via Breakwave Advisors 2 Mar 2026
+vlcc_newbuild_nov_2026_usd_m,132,CMB.TECH Q3 2026 / newbuild_share.py
+euronav_maersk_vlcc_avg_2014_usd_m,65.3,Euronav F-1/A 20 Jan 2015 (15 VLCCs from Maersk Tankers)

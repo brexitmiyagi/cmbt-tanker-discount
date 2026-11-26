@@ -1,0 +1,6 @@
+date,type,five_year_old_usd_m,one_year_tc_usd_day,newbuild_usd_m,source
+2016-02,Capesize,23,6025,46,"Clarksons via Southampton Solent Global Maritime Weekly Digest 6 Apr 2016 (5-year-old end Jan 2016; 1-year TC end Feb 2016; guideline newbuild)"
+2016-02,VLCC,76.2,,,"Signal Ocean via Breakwave 2 Mar 2026; no 1-year TC found for Feb 2016"
+2023-02,VLCC,100.5,45000,120,"Allied Week 06 2023 (5-year-old, data 10 Feb 2023); Intermodal Week 06 2023 (1-year TC $45,000, newbuild $120m); Allied had 1-year TC $39,000"
+2023-02,Suezmax,68.5,46000,80,"Allied Week 06 2023 (5-year-old); Intermodal Week 06 2023 (1-year TC $46,000, newbuild $80m); Allied had 1-year TC $36,250"
+2023-02,Capesize,44.5,15000,61,"Allied Week 06 2023 (5-year-old, 1-year TC $15,000, newbuild $61m); Intermodal Week 06 2023 same TC and newbuild"

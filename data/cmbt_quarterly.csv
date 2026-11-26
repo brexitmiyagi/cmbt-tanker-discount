@@ -1,0 +1,4 @@
+date,close,dry_bulk_fmv,tanker_fmv,fleet_fmv,nav_route1_ps,nav_route2_ps,source
+2025-12-31,9.65,6329,2383,10686,15.78,24.07,Q4 2025 presentation slide 4 and 5; nav_reconcile.py
+2026-06-30,13.99,6720,2452,11185,20.88,25.61,Q2 2026 presentation slide 4 (dry bulk 6720 / tankers 2452 / container 403 / chemical 834 / offshore 776) and slide 5; nav_reconcile.py
+2026-09-30,18.93,7017,3128,12186,25.02,30.67,Q3 2026 presentation slide 4 and 5; nav_reconcile.py

@@ -1,0 +1,13 @@
+item,value,source
+vlcc_1yr_tc,234000,Compass 16 Nov 2026 (12-month time charter rate)
+suezmax_1yr_tc,136250,Compass 16 Nov 2026
+capesize_1yr_tc,32494,Compass 16 Nov 2026
+panamax_1yr_tc,18500,Compass 16 Nov 2026
+tanker_fmv_2025_12_31_usd_m,2383,CMB.TECH Q4 2025 presentation slide 4 (22 crude tankers)
+tanker_ships_2025_12_31,22,CMB.TECH Q4 2025 presentation slide 4
+tanker_fmv_2026_09_30_usd_m,3128,CMB.TECH Q3 2026 presentation slide 4 (20 crude tankers)
+tanker_ships_2026_09_30,20,CMB.TECH Q3 2026 presentation slide 4
+drybulk_fmv_2025_12_31_usd_m,6329,CMB.TECH Q4 2025 presentation slide 4 (103 ships)
+drybulk_ships_2025_12_31,103,CMB.TECH Q4 2025 presentation slide 4
+drybulk_fmv_2026_09_30_usd_m,7017,CMB.TECH Q3 2026 presentation slide 4
+drybulk_ships_2026_09_30,108,CMB.TECH Q3 2026 presentation slide 4

@@ -1,0 +1,7 @@
+type,price_usd_m,date,source
+Capesize,75.2,2026-01,"Seanergy contract for a 181k dwt Hengli Capesize, delivery Q3 2027, as cited by IndexBox 15 Oct 2026"
+Capesize,74.0,2026-01,"Hengli Petrochemical sale to Capital Axis, IndexBox 15 Oct 2026"
+Capesize,70.9,2025,"CNDPI average Capesize newbuilding price for 2025, Breakwave Advisors 18 Feb 2026"
+Capesize resale,82.95,2026-10,"VesselsValue valuation of Hengli resale Arriktos (delivery Oct 2027), IndexBox 15 Oct 2026"
+Suezmax,90.0,2026,"DH Shipbuilding Suezmax order at $90m each, Lloyd's List (article text undated, 2026 orders)"
+VLCC,132.0,2026-11,CMB.TECH Q3 2026 / newbuild_share.py

@@ -1,0 +1,19 @@
+company,ticker,class,tc_tce,spot_tce,tc_days,days_method,source
+CMB.TECH,CMBT,Suezmax,32986,148540,717,stated,CMB.TECH Q3 2026 release
+CMB.TECH,CMBT,VLCC,85623,149945,92,stated,CMB.TECH Q3 2026 release
+DHT Holdings,DHT,VLCC,114200,167100,1030.8,derived: 2112.3 operating days x (1 - 51.2% spot exposure),DHT Q3 2026 6-K ex99.1
+International Seaways,INSW,VLCC,315258,154597,276,stated,INSW Q3 2026 8-K ex99.1 (fixed rates include profit sharing)
+International Seaways,INSW,Suezmax,41682,102501,276,stated,INSW Q3 2026 8-K ex99.1
+International Seaways,INSW,Aframax,38500,57832,92,stated,INSW Q3 2026 8-K ex99.1
+International Seaways,INSW,MR,22503,35415,294,stated,INSW Q3 2026 8-K ex99.1
+Teekay Tankers,TNK,Suezmax,60470,106437,295,stated,TNK Q3 2026 6-K
+Teekay Tankers,TNK,Aframax/LR2,41539,67552,276,stated,TNK Q3 2026 6-K
+Frontline,FRO,VLCC,88600,148500,1247,derived: 1413 TC days split 15:2 by the VLCC/Suezmax time-charter vessel count at the report date,Frontline Q3 2026 exhibit 1
+Frontline,FRO,Suezmax,84600,102500,166,derived: as above,Frontline Q3 2026 exhibit 1
+Scorpio Tankers,STNG,LR2,30513,72283,960,derived: blended TCE $55184 implies 40.9% of days on charter; 25.5 vessels x 92 days,STNG Q3 2026 6-K ex99.1
+Scorpio Tankers,STNG,MR,27551,31183,99,derived: blended $31073 implies 3.0% on charter; 35.7 vessels x 92 days,STNG Q3 2026 6-K ex99.1
+Scorpio Tankers,STNG,Handymax,22903,24253,91,derived: blended $24157 implies 7.1% on charter; 14 vessels x 92 days,STNG Q3 2026 6-K ex99.1
+Hafnia,HAFN,LR2,31761,101307,495,derived: blended $38919 implies 89.7% of 552 operating days on charter,Hafnia Q3 2026 6-K ex99.1 (operating days include bareboat-out)
+Hafnia,HAFN,LR1,27115,45682,276,derived: blended $43052 implies 14.2% of 1948 operating days,Hafnia Q3 2026 6-K ex99.1
+Hafnia,HAFN,MR,23410,32839,1208,derived: blended $30220 implies 27.8% of 4349 operating days,Hafnia Q3 2026 6-K ex99.1
+Hafnia,HAFN,Handy,22261,26327,275,derived: blended $25713 implies 15.1% of 1824 operating days,Hafnia Q3 2026 6-K ex99.1

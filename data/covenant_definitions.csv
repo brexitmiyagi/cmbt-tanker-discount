@@ -1,0 +1,14 @@
+item,text,source
+value_adjusted_equity,"'Value Adjusted Equity' means the amount of the Stockholders' Equity adjusted with the Excess Value",USD 1.4bn bridge facilities agreement for CMB.TECH NV (March 2025) filed as exhibit 99.5 to Schedule 13D (SEC accession 0000919574-25-001904)
+value_adjusted_total_assets,"'Value Adjusted Total Assets' means the book value of the Total Assets adjusted with the Excess Value",same
+excess_value,"'Excess Value' means the difference between the market value and the book value of the Group's Vessels",same
+vessels,"'Vessels' means any vessels fully owned by a member of the Group within pre-agreed segments",same
+covenant_levels,"at least 25% on or before 31 December 2025; 27.5% during 2026; 30% thereafter",CMB.TECH 20-F for 2025
+sale_leaseback_dec_2025,"partially refinanced again in December 2025 through four sale and leaseback arrangements for 20 vessels in the former Golden Ocean fleet",CMB.TECH 20-F for 2025
+sale_leaseback_other,"sale and leaseback agreements for two Newcastlemax vessels (Dec 2022) and two newbuild 210000 dwt Newcastlemaxes (Dec 2023); contracts from a 2015 sale and leaseback of eight Capesize vessels",CMB.TECH 20-F for 2025
+bridge_drawn_2025-12-31_usd_k,122522,CMB.TECH 20-F 2025 bank loans table (1.4 B Bridge Facility SOFR + 3.04% 2026: drawn 122522 carrying 122598)
+bridge_drawn_2026-06-30_usd_k,0,CMB.TECH HY 2026 report bank loans table (1.4 B Bridge Facility: nil at 30 June 2026)
+facility_2b_margin_2025-12-31,SOFR + 2.10% - 2.75%,CMB.TECH 20-F 2025 bank loans table (Secured vessels loan 2 B Facility 2030)
+facility_2b_margin_2026-06-30,SOFR + 1.50% - 2.00%,CMB.TECH HY 2026 report bank loans table (same facility)
+only_facility_agreement_filed,4.1 $1400.0 Million Bridge Facilities Agreement dated March 4 2025,20-F 2025 Item 19 exhibit list
+covenant_text_20F_2025,ratio of value adjusted stockholders' equity to value adjusted total assets of at least 25% to end-2025; 27.5% during 2026; 30% after,20-F 2025 (no definition given)

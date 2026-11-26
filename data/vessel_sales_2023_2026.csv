@@ -1,0 +1,59 @@
+period,vessel,type,sale_price_usd_k,book_value_usd_k,gain_usd_k,frontline_fleet_sale,source
+2023,Cap Charles,Suezmax,40523,18459,22064,no,CMB.TECH 20-F 2025 (0001604481-26-000004) note on disposal of assets p F-44
+2023,Nautica,VLCC,53900,26847,27053,no,same
+2023,Alex,VLCC,86397,62214,24182,yes,same
+2023,Ardeche,VLCC,90410,58345,32065,yes,same
+2023,Drenec,VLCC,86327,56279,30048,yes,same
+2023,Heron,VLCC,89130,58243,30887,yes,same
+2023,Arafura,VLCC,87077,56673,30404,yes,same
+2023,Amundsen,VLCC,90670,60007,30663,yes,same
+2023,Diodorus,VLCC,113100,83911,29189,yes,same
+2023,Dickens,VLCC,113397,83534,29863,yes,same
+2023,Dalis,VLCC,107930,84395,23535,yes,same
+2023,Cassius,VLCC,123500,91635,31865,yes,same
+2023,Clovis,VLCC,124277,93651,30625,yes,same
+2024,Andaman,VLCC,86976,56636,30341,yes,CMB.TECH 20-F 2025 p F-44/F-45
+2024,Dominica,VLCC,82685,52826,29858,yes,same
+2024,Hatteras,VLCC,90310,59368,30942,yes,same
+2024,Derius,VLCC,104627,81458,23169,yes,same
+2024,Alboran,VLCC,86418,56362,30056,yes,same
+2024,Delos,VLCC,112888,83611,29277,yes,same
+2024,Desirade,VLCC,85965,56071,29894,yes,same
+2024,Alice,VLCC,85965,61625,24340,yes,same
+2024,Aquitaine,VLCC,90268,58657,31610,yes,same
+2024,Oceania,VLCC,43120,8294,34826,no,same
+2024,Doris,VLCC,113010,84438,28573,yes,same
+2024,Aral,VLCC,86472,56445,30027,yes,same
+2024,Anne,VLCC,86275,62820,23455,yes,same
+2024,Camus,VLCC,123420,92228,31193,yes,same
+2024,Noble,VLCC,53955,25716,28239,no,same
+2024,Nectar,VLCC,53955,23873,30082,no,same
+2024,Newton,VLCC,53955,33285,20670,no,same
+2024,CMA CGM Baikal,Container,71500,55879,15621,no,same
+2024,Sapphira,Suezmax,45500,14670,30830,no,same
+2024,Statia,Suezmax,41250,10723,30527,no,same
+2024,Selena,Suezmax,38170,11794,26376,no,same
+2024,Cap Victor,Suezmax,38990,15593,23397,no,same
+2024,Cap Felix,Suezmax,42330,20989,21341,no,same
+2025,Alsace,VLCC,96850,69388,27462,no,CMB.TECH 20-F 2025 p F-45
+2025,Cap Lara,Suezmax,33213,14437,18776,no,same
+2025,Iris,VLCC,99990,42856,57134,no,same
+2025,Golden Ioanari,Dry bulk,15811,15811,0,no,same
+2025,Golden Keen,Dry bulk,16848,16649,199,no,same
+2025,Hakata,VLCC,57820,38749,19071,no,same
+2025,Hakone,VLCC,55615,35405,20210,no,same
+2025,Dalma,Suezmax,47334,20939,26395,no,same
+2025,Sofia,Suezmax,40120,19693,20426,no,same
+2025,Battersea,Dry bulk,24071,21664,2407,no,same
+2025,Golden Zhoushan,Dry bulk,21879,21879,0,no,same
+2026H1,Daishan,VLCC,47000,20479,26521,no,CMB.TECH HY 2026 report (6-K 0001604481-26-000010) disposal note p 28-29
+2026H1,Dia,VLCC,103000,48399,54601,no,same
+2026H1,Hojo,VLCC,85000,48877,36123,no,same
+2026H1,Hirado,VLCC,75000,39174,35826,no,same
+2026H1,Antigone,VLCC,103000,53808,49192,no,same
+2026H1,Aegean,VLCC,107000,49961,57039,no,same
+2026H1,Belgravia,Dry bulk,25047,21443,3604,no,same
+2026H1,Golden Magnum,Dry bulk,28026,23577,4449,no,same
+2026H1,Ingrid,VLCC,88800,39246,49554,no,same
+2026H1,Ilma,VLCC,88800,40190,48610,no,same
+2026H1,Sienna,Suezmax,41882,12687,29195,no,same
