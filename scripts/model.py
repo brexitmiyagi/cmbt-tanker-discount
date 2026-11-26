@@ -83,7 +83,13 @@ for i, q in enumerate(quarters):
     # container fleet's Q3 margin over breakeven ($29,681 - $21,353). chemical newbuilds (2028) earn ~$453/day over
     # breakeven on the Q3 numbers, so they're left out as immaterial.
     box = 0 if i == 0 else 91 * (29681 - 21353) / 1e6
-    ni_ex = (seg(sp, tc, rate) + resid + box + saving) * (1 - TAX)
+    # Q4_OTHER=1 (v26 on): Q4 2026 chemical/container/offshore at their Q4 to-date rates plus group costs, from
+    # q4_preview.py, instead of the flat Q3 residual. off by default so earlier versions still reproduce.
+    r_i = resid
+    if i == 0 and os.environ.get('Q4_OTHER') == '1':
+        _j = __import__('json').load(open(os.path.join(HERE, '..', 'results', 'q4_preview.json')))['base']
+        r_i = sum(_j['other'].values()) + _j['group_costs']
+    ni_ex = (seg(sp, tc, rate) + r_i + box + saving) * (1 - TAX)
     ni = ni_ex + gains[i]
     # depreciation grows as newbuilds deliver: capex to date over a 25-year life (the breakevens carry it in profit)
     dep_i = dep + sum(capex[:i]) / 100
