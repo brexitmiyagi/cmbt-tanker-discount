@@ -1,0 +1,158 @@
+{
+ "curves": {
+  "Compass": {
+   "VLCC": 0.8604651162790697,
+   "Suezmax": 0.8705035971223022,
+   "Capesize": 0.7948717948717948,
+   "Kamsarmax": 0.8095238095238095
+  },
+  "KOBC": {
+   "VLCC": 0.8547925206356336,
+   "Suezmax": 0.8817194487542211,
+   "Capesize": 0.7687103010218171,
+   "Kamsarmax": 0.768160741885626
+  }
+ },
+ "segments": {
+  "VLCC": {
+   "price": 220.0,
+   "nb": 132.0,
+   "Compass_worth": 236.98997476232725,
+   "Compass_charters": 160.54623540151448,
+   "Compass_residual": 76.44373936081277,
+   "Compass_premium": -0.07169068978283222,
+   "KOBC_worth": 236.11523576249232,
+   "KOBC_charters": 160.54623540151448,
+   "KOBC_residual": 75.56900036097782,
+   "KOBC_premium": -0.06825157093506062,
+   "residual_share": 0.3225610679838957,
+   "premium_resid_minus10": -0.04074898664974291,
+   "premium_resid_plus10": -0.10069865016698198,
+   "drift": 0.0,
+   "drift_raw": 0.02030896131230997
+  },
+  "Suezmax": {
+   "price": 150.0,
+   "nb": 91.0,
+   "Compass_worth": 150.47576208440523,
+   "Compass_charters": 96.70152112122297,
+   "Compass_residual": 53.77424096318225,
+   "Compass_premium": -0.0031617190557131636,
+   "KOBC_worth": 151.6870527784518,
+   "KOBC_charters": 96.70152112122297,
+   "KOBC_residual": 54.98553165722883,
+   "KOBC_premium": -0.01112192997062078,
+   "residual_share": 0.35736147947214963,
+   "premium_resid_minus10": 0.03378165511665232,
+   "premium_resid_plus10": -0.037555768503418685,
+   "drift": 0.0,
+   "drift_raw": 0.0008562387551240835
+  },
+  "Aframax": {
+   "price": 95.0,
+   "nb": 79.5,
+   "Compass_worth": 103.36832391328844,
+   "Compass_charters": 56.389728786112734,
+   "Compass_residual": 46.9785951271757,
+   "Compass_premium": -0.08095636648136317,
+   "KOBC_worth": 104.42653940973571,
+   "KOBC_charters": 56.389728786112734,
+   "KOBC_residual": 48.03681062362298,
+   "KOBC_premium": -0.09026957575170658,
+   "residual_share": 0.45447767119242616,
+   "premium_resid_minus10": -0.037199220890153484,
+   "premium_resid_plus10": -0.1209090856341064,
+   "drift": 0.0,
+   "drift_raw": 0.023078961123695674
+  },
+  "MR": {
+   "price": 56.0,
+   "nb": 52.5,
+   "Compass_worth": 55.43739404756546,
+   "Compass_charters": 24.413793491883396,
+   "Compass_residual": 31.023600555682062,
+   "Compass_premium": 0.010148492044049107,
+   "KOBC_worth": 56.13621560182311,
+   "KOBC_charters": 24.413793491883396,
+   "KOBC_residual": 31.72242210993971,
+   "KOBC_premium": -0.002426519143885586,
+   "residual_share": 0.5596150592696278,
+   "premium_resid_minus10": 0.07002892189891696,
+   "premium_resid_plus10": -0.04338511737953665,
+   "drift": -0.002725290950533532,
+   "drift_raw": -0.002725290950533532
+  },
+  "Capesize": {
+   "price": 78.3,
+   "nb": 76.5,
+   "Compass_worth": 65.20620787173517,
+   "Compass_charters": 26.613036237004057,
+   "Compass_residual": 38.59317163473112,
+   "Compass_premium": 0.20080591335753128,
+   "KOBC_worth": 63.023032913290265,
+   "KOBC_charters": 26.613036237004057,
+   "KOBC_residual": 36.40999667628621,
+   "KOBC_premium": 0.24240291811611825,
+   "residual_share": 0.5918634573972832,
+   "premium_resid_minus10": 0.27634830544809885,
+   "premium_resid_plus10": 0.13370599818193174,
+   "drift": -0.04825443876584201,
+   "drift_raw": -0.04825443876584201
+  },
+  "Kamsarmax": {
+   "price": 42.0,
+   "nb": 38.5,
+   "Compass_worth": 30.239400143212634,
+   "Compass_charters": 10.18949212525291,
+   "Compass_residual": 20.049908017959726,
+   "Compass_premium": 0.3889164401770411,
+   "KOBC_worth": 28.490689391028752,
+   "KOBC_charters": 10.18949212525291,
+   "KOBC_residual": 18.30119726577584,
+   "KOBC_premium": 0.4741658028543565,
+   "residual_share": 0.6630392111948032,
+   "premium_resid_minus10": 0.4875466135001021,
+   "premium_resid_plus10": 0.302552126713423,
+   "drift": -0.08496251217377304,
+   "drift_raw": -0.08496251217377304
+  },
+  "Ultramax": {
+   "price": 39.0,
+   "nb": 36.0,
+   "Compass_worth": 29.84800614542179,
+   "Compass_charters": 11.100040206550359,
+   "Compass_residual": 18.74796593887143,
+   "Compass_premium": 0.30661994003850657,
+   "KOBC_worth": 28.21284803948361,
+   "KOBC_charters": 11.100040206550359,
+   "KOBC_residual": 17.112807832933253,
+   "KOBC_premium": 0.3823489193795633,
+   "residual_share": 0.6281145161767219,
+   "premium_resid_minus10": 0.39419110732184137,
+   "premium_resid_plus10": 0.22939956852152954,
+   "drift": -0.06973152827611628,
+   "drift_raw": -0.06973152827611628
+  }
+ },
+ "capesize_ffa": {
+  "worth": 61.580490339442505,
+  "premium": 0.2715066016590093,
+  "worth_y1_at_1yr_tc": 63.82900983031496,
+  "premium_y1": 0.22671494056002395,
+  "ffa_avg": 27067.567567567567,
+  "rate_needed": 41951.90581456636
+ },
+ "fleet": {
+  "weights": {
+   "VLCC": 1564.0,
+   "Suezmax": 1564.0,
+   "Capesize": 5865.863370049215,
+   "Kamsarmax": 1151.1366299507852
+  },
+  "drift_compass": -0.03754139031391869,
+  "drift_kobc": -0.04424126974964826,
+  "drift_ffa": -0.040707175473217234,
+  "drift_bulkers": -0.05427638659465657,
+  "bulker_value_above_charters": 0.1857288428275573
+ }
+}
